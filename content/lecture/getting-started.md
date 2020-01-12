@@ -44,7 +44,7 @@ After each class, keep your eye on your email or this website. There will be a r
 
 This helps us get the most value of being in class together; more time to collaborate, troubleshoot, and ask questions.
 
-[Go to Lecture]()
+[Go to Lecture](/lecture/web-design-process/)
 
 ## Conclusion
 
