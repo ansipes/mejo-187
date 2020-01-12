@@ -19,8 +19,8 @@ title = "Foundations of Interactive Media"
     url = "/demo/"
     weight = 3
   [[menu.main]]
-    name = "Exercises"
-    url = "/exercise/"
+    name = "Assignments"
+    url = "/assignment/"
     weight = 3
   [[menu.main]]
     name = "Projects"
