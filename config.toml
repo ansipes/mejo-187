@@ -2,6 +2,12 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Foundations of Interactive Media"
 
+[markup]
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
+
 [permalinks]
   blog = "/:section/:filename/"
 
@@ -30,5 +36,4 @@ title = "Foundations of Interactive Media"
     name = "Resources"
     url = "/resource/"
     weight = 4
-
 
