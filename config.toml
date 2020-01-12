@@ -1,0 +1,34 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Foundations of Interactive Media"
+
+[permalinks]
+  blog = "/:section/:filename/"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Lectures"
+    url = "/lecture/"
+    weight = 2
+  [[menu.main]]
+    name = "Demos"
+    url = "/demo/"
+    weight = 3
+  [[menu.main]]
+    name = "Exercises"
+    url = "/exercise/"
+    weight = 3
+  [[menu.main]]
+    name = "Projects"
+    url = "/project/"
+    weight = 4
+  [[menu.main]]
+    name = "Resources"
+    url = "/resource/"
+    weight = 4
+
+
