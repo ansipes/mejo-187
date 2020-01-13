@@ -288,3 +288,9 @@ article a {
 #home p {
   color: white;
 }
+
+a,
+a:visited,
+a:active {
+  color: var(--black);
+}
