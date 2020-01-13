@@ -1,7 +1,10 @@
-<div>
-  <nav>
-  {{ range .Site.Menus.main }} 
-    <a class="nav-link" href="{{ .URL }}">{{ .Name | safeHTML }}</a>
-  {{ end }}
-  </nav>
-</div>
+<nav id="main-navigation">
+  <a href="/">Home</a>
+  <ul>
+    {{ range .Site.Menus.main }}
+    <li>
+      <a class="nav-link" href="{{ .URL }}">{{ .Name | safeHTML }}</a>
+    </li>
+    {{ end }}
+  </ul>
+</nav>

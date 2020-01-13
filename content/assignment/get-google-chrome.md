@@ -3,6 +3,7 @@ title: Get Google Chrome
 date: 2020-01-08
 categories: []
 draft: false
+description: You will find your browser's developer tools to be critical in previewing, testing, and debugging the code for your website. To keep things simple, we will all be using Google Chrome. Please confirm completion of this task on Sakai.
 ---
 
 ## Introduction
@@ -13,6 +14,8 @@ You will find your browser's developer tools to be critical in previewing, testi
 
 You will download and install Google Chrome by visiting its website.
 
+{{< figure src="/images/get-google-chrome/step-one.png" >}}
+
 ## Download Google Chrome
 
 Click the **Download** button to begin downloading Google Chrome.
@@ -20,6 +23,8 @@ Click the **Download** button to begin downloading Google Chrome.
 ## Install Google Chrome
 
 Finish installing Google Chrome using the method appropriate for your operating system.
+
+{{< figure src="/images/get-google-chrome/step-two.png" >}}
 
 ## Conclusion
 

@@ -1,12 +1,18 @@
 {{ define "main" }}
 
-<aside>
-  {{ .TableOfContents }}
-</aside>
-
-<article>
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
-</article>
+<main>
+  <header>
+    <h1>{{ .Title }}</h1>
+  </header>
+  <aside>
+    <div>
+      <p><strong>Table of Contents</strong></p>
+      {{ .TableOfContents }}
+    </div>
+  </aside>
+  <article>
+    {{ .Content }}
+  </article>
+</main>
 
 {{ end }}

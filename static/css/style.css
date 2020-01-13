@@ -1,0 +1,262 @@
+html,
+body {
+  font-family: Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-rows: 58px calc(100vh - 58px);
+  height: 100vh;
+  max-height: 100vh;
+}
+
+/* START | Navigation Bar */
+#main-navigation {
+  padding: 20px;
+  top: 0;
+  background: white;
+  box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.1);
+  z-index: 1;
+}
+
+#main-navigation,
+#main-navigation > ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+#main-navigation > ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  max-width: 200px;
+  width: 100%;
+}
+
+#main-navigation a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#main-navigation a:visited {
+  color: black;
+}
+/* END | Navigation Bar */
+
+/* START | Main Article */
+main {
+  max-height: calc(100vh - 58px);
+  overflow: scroll;
+  display: grid;
+  grid-template-rows: 200px auto;
+  grid-template-columns: 1fr 350px 650px 1fr;
+  grid-template-areas:
+    "header header header header"
+    ". aside article .";
+}
+
+main > article {
+  margin-bottom: 90vh;
+  grid-area: article;
+}
+
+main > article > h2,
+main > article > h3 {
+  padding-top: 58px;
+}
+
+main > aside {
+  grid-area: aside;
+}
+
+main > aside > div > nav > ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+main > article h1:first-child {
+  margin-top: 0;
+}
+/* END | Main Article */
+
+/* START | Table of Contents */
+#TableOfContents {
+}
+/* END | Table of Contents */
+
+footer {
+  height: 1000px;
+}
+
+img {
+  width: 100%;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 0 5px 10px 1px rgba(0, 0, 0, 0.1);
+}
+
+figure {
+  margin: 0;
+}
+
+figcaption > h4 {
+  font-weight: lighter;
+  font-style: italic;
+  font-size: 0.8rem;
+  max-width: 300px;
+  text-align: center;
+  margin: 15px auto 0 auto;
+}
+
+header {
+  height: 200px;
+  background: black;
+  grid-area: header;
+}
+
+article p {
+  font-size: 20px;
+  line-height: 35px;
+}
+
+article li {
+  font-size: 20px;
+  line-height: 35px;
+  padding-bottom: 16px;
+  padding-left: 16px;
+}
+
+aside a {
+  text-decoration: none;
+  color: black;
+}
+
+aside {
+  padding-top: 64px;
+}
+
+aside > div {
+  position: sticky;
+  position: -webkit-sticky;
+  top: 60px;
+}
+
+aside li {
+  padding-bottom: 10px;
+}
+
+aside ul ul {
+  list-style-type: none;
+  padding: 10px 0 0 20px;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background: linear-gradient(45deg, #f17c58, #e94584, #24aadb, #27dbb1);
+  background-size: 600% 100%;
+  animation: gradient 60s linear infinite;
+  animation-direction: alternate;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0%;
+  }
+  100% {
+    background-position: 100%;
+  }
+}
+
+#list {
+  max-width: 1000px;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+aside {
+}
+
+header h1 {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  color: white;
+  font-size: 50px;
+}
+
+#list > h2 {
+  margin-top: 100px;
+}
+
+#list > h2:first-child {
+  margin-top: 50px;
+}
+
+article a {
+  text-decoration: none;
+  font-weight: bold;
+  padding: 10px 15px;
+  border: black thin solid;
+  margin-top: 25px;
+  color: black;
+  display: inline-block;
+  margin-top: 10px;
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  main {
+    grid-template-columns: 1fr 200px 548px 1fr;
+    grid-gap: 0 20px;
+  }
+
+  header h1 {
+    padding: 20px;
+    box-sizing: border-box;
+  }
+}
+
+@media only screen and (max-device-width: 767px) {
+  main {
+    display: block;
+  }
+  article {
+    padding: 0 20px;
+  }
+  aside {
+    padding: 20px 20px 0 20px;
+  }
+  aside > div {
+    position: static;
+    display: none;
+  }
+  header h1 {
+    padding: 20px;
+    box-sizing: border-box;
+  }
+}
+
+#home {
+  background: linear-gradient(45deg, #f17c58, #e94584, #24aadb, #27dbb1);
+  background-size: 600% 100%;
+  animation: gradient 60s linear infinite;
+  animation-direction: alternate;
+  height: calc(100vh - 58px);
+}
+
+#home > div {
+  max-width: 700px;
+  padding: 20vh 20px 50px 20px;
+  font-size: 20px;
+  line-height: 1.58;
+}
+
+#home h1 {
+  margin: 0;
+  color: white;
+}
+
+#home p {
+  color: white;
+}
