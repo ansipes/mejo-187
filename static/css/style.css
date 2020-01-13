@@ -1,3 +1,27 @@
+:root {
+  --white: white;
+  --black: black;
+  --shadow: rgba(0, 0, 0, 0.1);
+  --grayscale-percentage: 0%;
+  --orange: #f17c58;
+  --pink: #e94584;
+  --blue: #24aadb;
+  --green: #27dbb1;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --white: black;
+    --black: white;
+    --shadow: rgba(255, 255, 255, 0.1);
+    --grayscale-percentage: 0%;
+    --orange: #3a6186;
+    --pink: #89253e;
+    --blue: #16222a;
+    --green: #3a6073;
+  }
+}
+
 html,
 body {
   font-family: Helvetica, sans-serif;
@@ -7,14 +31,16 @@ body {
   grid-template-rows: 58px calc(100vh - 58px);
   height: 100vh;
   max-height: 100vh;
+  color: var(--black);
+  background: var(--white);
 }
 
 /* START | Navigation Bar */
 #main-navigation {
   padding: 20px;
   top: 0;
-  background: white;
-  box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.1);
+  background: var(--white);
+  box-shadow: inset 0 0 5px 5px var(--shadow);
   z-index: 1;
 }
 
@@ -38,7 +64,7 @@ body {
 }
 
 #main-navigation a:visited {
-  color: black;
+  color: var(--black);
 }
 /* END | Navigation Bar */
 
@@ -92,7 +118,8 @@ img {
   width: 100%;
   border-radius: 5px;
   overflow: hidden;
-  box-shadow: 0 5px 10px 1px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 5px 10px 1px var(--shadow);
+  filter: grayscale(var(--grayscale-percentage));
 }
 
 figure {
@@ -110,7 +137,7 @@ figcaption > h4 {
 
 header {
   height: 200px;
-  background: black;
+  background: var(--black);
   grid-area: header;
 }
 
@@ -128,7 +155,7 @@ article li {
 
 aside a {
   text-decoration: none;
-  color: black;
+  color: var(--black);
 }
 
 aside {
@@ -154,7 +181,8 @@ header {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  background: linear-gradient(45deg, #f17c58, #e94584, #24aadb, #27dbb1);
+  background: linear-gradient(45deg, var(--orange), var(--pink), var(--blue), var(--green));
+  filter: grayscale(var(--grayscale-percentage));
   background-size: 600% 100%;
   animation: gradient 60s linear infinite;
   animation-direction: alternate;
@@ -198,9 +226,9 @@ article a {
   text-decoration: none;
   font-weight: bold;
   padding: 10px 15px;
-  border: black thin solid;
+  border: var(--black) thin solid;
   margin-top: 25px;
-  color: black;
+  color: var(--black);
   display: inline-block;
   margin-top: 10px;
 }
