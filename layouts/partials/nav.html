@@ -1,5 +1,7 @@
 <nav id="main-navigation">
-  <a href="/">Home</a>
+  <a href="/">
+    {{ partial "logo.html" . }}
+  </a>
   <ul>
     {{ range .Site.Menus.main }}
     <li>
