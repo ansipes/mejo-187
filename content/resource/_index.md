@@ -30,15 +30,15 @@ From fonts to colors to photos – we've got you covered. Check out these free a
 
 There are tons of free fonts out there to pick from. You can use these fonts in your Adobe XD prototypes and on your websites!
 
-[Google Fonts](https://fonts.google.com/)
-[Adobe Fonts](https://fonts.adobe.com/)
+- [Google Fonts](https://fonts.google.com/)
+- [Adobe Fonts](https://fonts.adobe.com/)
 
 ### Colors
 
 So, while colors themselves may not be assets, color pairings are! Check out these cool libraries of premade swatches and gradients.
 
-[Color Hunt](https://colorhunt.co/)
-[Gradient Hunt](https://gradienthunt.com/)
+- [Color Hunt](https://colorhunt.co/)
+- [Gradient Hunt](https://gradienthunt.com/)
 
 ### Images
 
