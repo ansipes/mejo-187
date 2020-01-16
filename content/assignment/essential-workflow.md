@@ -16,7 +16,7 @@ You will work with a small group of peers to design two pages of a client's webs
 
 [Web Design Process](/lecture/web-design-process/)
 
-You'll want to submit a brief explanation for each of the first three steps – then you'll turn in three five art boards in your Adobe XD project. Those art boards should include:
+You'll want to submit a brief explanation for each of the first three steps – then you'll turn in five art boards in your Adobe XD project. The art boards should be sized like an iPhone X. Those art boards should include:
 
 - A style tile
 - A home page wireframe
