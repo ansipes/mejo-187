@@ -56,6 +56,6 @@ Thanks, Jane!
 
 One of the best ways to become a better designer is to emulate others. Check out these websites that feature award winning website designs.
 
-- [awwwards](https://awwwards.com)
-- [behance.net](https://behance.net)
-- [dribbble.com](https://dribbble.com)
+- [Awwwards](https://awwwards.com)
+- [Bēhance](https://behance.net)
+- [Dribbble](https://dribbble.com)
