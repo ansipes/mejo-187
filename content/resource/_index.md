@@ -3,7 +3,12 @@ title: Resources
 date: 2020-01-08
 categories: []
 draft: false
+layout: single
 ---
+
+## Introduction
+
+Welcome to the resources page, where you can find tons of tutorials, assets, and inspiration that can help improve your assignments and projects in this course.
 
 ## Tutorials
 
@@ -46,3 +51,11 @@ Check out these free photo sites that grant you irrevocable, nonexclusive, world
 - [Burst](https://burst.shopify.com/)
 
 Thanks, Jane!
+
+## Inspiration
+
+One of the best ways to become a better designer is to emulate others. Check out these websites that feature award winning website designs.
+
+- [awwwards](https://awwwards.com)
+- [behance.net](https://behance.net)
+- [dribbble.com](https://dribbble.com)
