@@ -20,3 +20,11 @@ title = "Foundations of Interactive Media"
     name = "Assignments"
     url = "/assignment/"
     weight = 2
+  [[menu.main]]
+    name = "Demos"
+    url = "/demo/"
+    weight = 3
+  [[menu.main]]
+    name = "Resources"
+    url = "/resource/"
+    weight = 3
