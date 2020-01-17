@@ -27,4 +27,4 @@ title = "Foundations of Interactive Media"
   [[menu.main]]
     name = "Resources"
     url = "/resource/"
-    weight = 3
+    weight = 4
