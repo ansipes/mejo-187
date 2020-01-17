@@ -2,11 +2,12 @@
   <a href="/">
     {{ partial "logo.html" . }}
   </a>
-  <ul>
+  <ul id="menu">
     {{ range .Site.Menus.main }}
     <li>
       <a class="nav-link" href="{{ .URL }}">{{ .Name | safeHTML }}</a>
     </li>
     {{ end }}
   </ul>
+  {{ partial "hamburger.html" . }}
 </nav>
