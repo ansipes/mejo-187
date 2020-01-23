@@ -17,7 +17,7 @@ Translate your current mobile design into desktop designs. You should keep both 
 - An additional mobile wireframe art board
 - An additional mobile prototype art board
 - Three desktop wireframe art boards
-- Three desktop wireframe prototypes
+- Three desktop prototype art boards
 
 The additional page should be something that should be the next prioritized page for your client. If that is not evident, do you best to imagine what they would like to see or ask me!
 
