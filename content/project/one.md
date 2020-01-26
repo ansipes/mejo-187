@@ -22,7 +22,7 @@ For the purpose of this project, we are going to imagine the New York Times is h
 
 ## Requirements
 
-Design a set of wireframes and design comps using Adobe XD and the grid layout we discuss in class. Here are the art boards you will need to make.
+Design a set of wireframes and design comps using Adobe XD and the grid layout we discuss in class. Here are the art boards you will need to make. For all work going forward in this class, we will use iPhone X to represent mobile and Web 1280x720 to represent desktop. Make sure you pick those two types of art boards when designing.
 
 - 1 Mobile Home Page Wireframe Art Board
 - 2 Mobile Inside Page Wireframe Art Boards
@@ -58,14 +58,14 @@ Consider the brand of this client. Decide the fonts for your heading, subheading
 
 Go to prototype view and start with your mobile wireframes. Connect the homepage frame to the interior pages and back. Link to other art boards as needed to demonstrate the functionality of hamburger menus, carousels, animation, etc. Then do the same for the desktop wireframes, mobile prototypes, and desktop prototypes.
 
-I highly recommend wiring all of your home pages up to the Style Tile. Basically, I just add three terms to my Style Tile:
+I highly recommend wiring all of your home pages up to the Style Tile. Basically, I just add four terms to my Style Tile:
 
 - Mobile Wireframe
 - Mobile Prototype
 - Desktop Wireframe
 - Desktop Prototype
 
-By doing this, you can share your entire project as just one link, instead of four separate links.
+Then I link each of those individual terms to the home page of each respective set of art boards. By doing this, you can share your entire project as just one link, instead of four separate links.
 
 ### Writeup
 
@@ -96,11 +96,13 @@ As America shifts towards a more urbanization, rural farmers face economic crisi
 
 ### Images
 
-A folder of 20 images (including NYT logos) is provided in the Project 1 folder in the Resources section of Sakai. IMPORTANT NOTE: For the purposes of this assignment, we will assume all these images are of the Benson family members and their farm, although they are not. You should make your photo editing choices based on this assumption. You can always grab more images from photo websites detailed on our resources page. You do not need to use all of these images.
+A folder of 20 images (including NYT logos) is provided below. For the purposes of this assignment, we will assume all these images are of the Benson family members and their farm, although they are not. You should make your photo editing choices based on this assumption. You can always grab more images from photo websites detailed on our resources page. You do not need to use all of these images.
+
+[Download Images](/zips/project-one-assets.zip)
 
 ### Navigation
 
-These pages need to be included in your navigation menu, but don't necessarily need to be created.
+These pages need to be included in your navigation menu, but don't necessarily need to be created as art boards. You should probably pick two of them though, for your inside pages.
 
 - Story
 - About
@@ -168,3 +170,20 @@ I am happy to deliver early feedback to you as long as you submit your project t
 If you organize your project in the way described above, you should be able to share everything with a single link. Please paste that link in the Sakai submission box, and attach your writeup as a PDF.
 
 [Go to Sakai](https://sakai.unc.edu)
+
+## Examples
+
+Do not copy these examples. If you copy them and expect a certain grade, you will be disappointed.
+
+Here is a previous submission that is considered excellent work.
+
+[Mobile](https://xd.adobe.com/view/84cc5d33-be73-450f-4566-961427b2e217-f2fd/)
+
+[Desktop](https://xd.adobe.com/view/fc5b122c-ea8c-41d8-5958-f0b2f5c1688a-8a6a/)
+
+Here is a previous submission that is considered good work. 
+
+[Mobile](https://xd.adobe.com/view/7df20180-e235-4781-645e-d862f4942a24-0bc3/)
+
+[Desktop](https://xd.adobe.com/view/32c4347e-8065-4c93-58cf-17b2b69ecd7b-44f5/)
+
