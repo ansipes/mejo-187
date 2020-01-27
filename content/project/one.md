@@ -12,13 +12,15 @@ This project is worth 15% of your final grade in this class. The goal of this pr
 
 [Read the Story](http://www.johnsandford.org/farm.html)
 
+For the purpose of this project, we are going to imagine the New York Times is hiring you to design a multimedia website for this written story. You will create wireframes and color comps with a color scheme and text treatment that is consistent with the content of the site that you are creating. You should use the assets provided, and you need to design a layout with typography and color scheme that you believe fits with the project. It should be professional and look like it could appear on the New York Times.
+
+## Due Date
+
+The project is due Monday at 6:00 PM, February 10th. Late work will receive 5 points off during the first 24 hours after the deadline, and 10 points off for each 24 hours period after that. Even if there is no credit left to earn on an assignment, you are always encouraged to turn it in for feedback.
+
 ## Alternatives
 
 You are welcome to use an alternative topic, but it must have sufficient text content so won't need to use lorem ipsum everywhere. You may not pick a topic already covered in a previous assignment. You must submit your alternative topic to me via email by 7:45 PM Wednesday, January 29th. I will review it, and let you know whether it is approved or not that night. Make sure to include details simliar to the ones included in this brief. For example, discuss the brand and feel you'll aim to replicate in your submission.
-
-## Brief
-
-For the purpose of this project, we are going to imagine the New York Times is hiring you to design a multimedia website for this written story. You will create wireframes and color comps with a color scheme and text treatment that is consistent with the content of the site that you are creating. You should use the assets provided, and you need to design a layout with typography and color scheme that you believe fits with the project. It should be professional and look like it could appear on the New York Times.
 
 ## Requirements
 
