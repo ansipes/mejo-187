@@ -59,3 +59,14 @@ One of the best ways to become a better designer is to emulate others. Check out
 - [Awwwards](https://awwwards.com)
 - [Bēhance](https://behance.net)
 - [Dribbble](https://dribbble.com)
+
+Check out these component systems for ideas!
+
+- [Bootstrap](https://getbootstrap.com/)
+- [UI Kit](https://getuikit.com/)
+- [Bulma](https://bulma.io/)
+
+Check out these design systems for ideas!
+
+- [Material Design](https://material.io/)
+- [Carbon Design](https://www.carbondesignsystem.com/)
