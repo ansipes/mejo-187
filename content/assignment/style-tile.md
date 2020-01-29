@@ -22,6 +22,6 @@ Your style tile needs to have these things.
 - Block Quote
 - Colors
 
-You can go the extra mile by adding in some hover states. This should all be on one art board.
+You can go the extra mile by adding in some hover states. This should all be on one art board. Write about five sentences explaining you choices, and make sure to note the archetype you were assigned.
 
 Please submit this on Sakai.
