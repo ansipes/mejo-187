@@ -1,6 +1,6 @@
 ---
 title: Introduction to HTML
-date: 2020-01-22
+date: 2020-02-12
 categories: []
 draft: false
 description: The objective of this exercise is get comfortable writing HTML and using documentation.
