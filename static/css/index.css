@@ -356,3 +356,9 @@ svg {
   fill: var(--black);
 }
 
+pre {
+  font-size: 1.1em;
+  overflow-x: scroll;
+  padding: 10px;
+  border-radius: 5px;
+}
