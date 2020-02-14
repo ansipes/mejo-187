@@ -10,7 +10,7 @@ description: Let us discuss the approaches to handle content, style, and logic o
 
 Now that we have built high-fidelity prototypes in Adobe XD, it is time to start making real websites.
 
-## What is a website made of?
+## Resources
 
 First, let's discuss the three resources that make up most websites.
 
