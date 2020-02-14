@@ -65,7 +65,7 @@ In a relative URL, we can also go back to higher level folders like this:
 ../
 ```
 
-Think of it this way: just like the ./ adds our URL fragments together, the ../ does the same, but it takes us up one folder level.
+Similar to how the ./ adds our URL fragments together, the ../ does the same, but it takes us up one folder level.
 
 Here's an example. I have an inside page:
 
@@ -82,7 +82,7 @@ https://mejo187.com/images/space.jpg
 The folder _my-inside-page_ and the folder _images_ are on the same level, so I need to jump up a level to relatively reference the file. This is what that looks like:
 
 ```html
-<img src="./../images/space.jpg" alt="The Milky Way Galaxy"/>
+<img src="../images/space.jpg" alt="The Milky Way Galaxy"/>
 ```
 
 The relative URL:
@@ -124,4 +124,8 @@ https://mywebsite.com/exercises/introduction-to-html/
 
 Relative URLs make that process a breeze.
 
+## Conclusion
 
+After this quick lecture, you should have an understanding of why we want to use relative URLs when possible. It will take practice to get right! Check out this quick demo if you would like extra help.
+
+[How to Use Relative Links](/demo/how-to-use-relative-links/)
