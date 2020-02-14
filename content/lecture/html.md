@@ -170,13 +170,13 @@ This structure does not convey that the items are related in anyway, even though
   <li>Grapes</li>
 </ul>
 ```
-This has multiple perks. First, you'll notice that the list items are nested instead of the unordered list. It is clear they are grouped together.
+This has multiple perks. First, you'll notice that the list items are nested inside of the unordered list. It is clear they are grouped together.
 
 Additionally, I didn't have to manually type out dashes or bullets. This can be handled with CSS or the browser's built-in styling.
 
 There are tons of scenarios / use-cases just like this that will come up when you are completing your assignments and projects. Unsure if you are using best practice? Just Google it!
 
-> What is the best way to represent an article in HTML?
+_"What is the best way to represent an article in HTML?"_
 
 99.99% of the questions you will ask have been asked before, and there is likely a wonderfully crafted answer on Stack Overflow that will help!
 
