@@ -24,18 +24,18 @@ https://mejo187.com/lecture/index.html
 
 This is the protocol.
 
-```
+```html
 https
 ```
 
 This is the domain name.
 
-```
+```html
 www.mejo187.com
 ```
 This is the path.
 
-```
+```html
 /lecture/index.html
 ```
 
@@ -64,7 +64,7 @@ For example, if I wanted a contact page on this site, I would make a folder call
 
 The URL to that page would be:
 
-```
+```html
 https://www.mejo187.com/contact/index.html
 ```
 
@@ -91,13 +91,13 @@ By default, most web server software will look for an _index.html_ if a file typ
 
 If we follow this design pattern, we can have prettier URLs. Instead of having this:
 
-```
+```html
 https://www.mejo187.com/contact/index.html
 ```
 
 We can just do this:
 
-```
+```html
 https://www.mejo187.com/contact/
 ```
 
