@@ -194,7 +194,7 @@ That means it needs two things.
 Here is the element without the attribute.
 
 ```html
-<a>Visit MEJO 187's Website</a
+<a>Visit MEJO 187's Website</a>
 ```
 
 We are going to add an attribute called _href_ to the opening tag of the anchor element. The value will be the URL to the page.
