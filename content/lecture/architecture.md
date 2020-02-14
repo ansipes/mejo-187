@@ -77,7 +77,7 @@ The way you name your files is important. You will need to reference those file 
 - Reference a style or script
 - ...
 
-If your naming practice is all over the place, you might type it differently somewhere else.
+If your naming is all over the place, you might type it differently somewhere else. That will lead to broken pages and frustration.
 
 So, here are a couple of rules that you should abide by to make things easier.
 
