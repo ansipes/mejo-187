@@ -103,6 +103,8 @@ https://www.mejo187.com/contact/
 
 Because the server defaults to index.html for us.
 
+When using this pattern, the name of your page that appears in the URL actually corresponds with the folder containing the HTML file, not the HTML file itself.
+
 
 ### Kebab Case
 
