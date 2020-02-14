@@ -1,9 +1,9 @@
 ---
-title: What is a website made of?
+title: HTML
 date: 2020-02-10
 categories: []
 draft: false
-description: Let us discuss the approaches to handle content, style, and logic on the web.
+description: When developing websites, we use HTML to markup and organize our content.
 ---
 
 ## Introduction
