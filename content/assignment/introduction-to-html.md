@@ -36,8 +36,6 @@ Open the following W3C tutorials and refer to them as needed.
 10. Write a paragraph about your favorite activities and make one of the words (or group or words) link to another site.
 11. Add an image to your page from your images folder.
 
-The additional page should be something that should be the next prioritized page for your client. If that is not evident, do your best to imagine what they would like to see or ask me!
-
 ## Save your Files
 
 1. Zip your project folder. On a Mac,  control + click, and choose 'Compress.' On a PC, right-click > Send To > Compressed Folder
