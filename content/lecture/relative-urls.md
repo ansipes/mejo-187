@@ -20,7 +20,7 @@ In a relative URL, the way we convey the current folder is by using this:
 ./
 ```
 
-The ./ just means "start from the folder I am currently in."
+The `./` just means "start from the folder I am currently in."
 
 Any path that you put after it will dig further into that current folder.
 
@@ -33,7 +33,7 @@ https://www.mejo.com/
 And I referenced an image like this:
 
 ```html
-<img src="./images/space.jpg" alt="The Milky Way Galaxy"/>
+<img src="./images/space.jpg" alt="The Milky Way Galaxy" />
 ```
 
 The relative URL:
@@ -54,8 +54,7 @@ Which gives us this:
 https://www.mejo.com/images/space.jpg
 ```
 
-So you can think of the ./ as a method to add your relative URL to whatever the current URL is.
-
+So you can think of the `./` as a method to add your relative URL to whatever the current URL is.
 
 ## Previous Folder
 
@@ -65,7 +64,7 @@ In a relative URL, we can also go back to higher level folders like this:
 ../
 ```
 
-Similar to how the ./ adds our URL fragments together, the ../ does the same, but it takes us up one folder level.
+Similar to how the `./` adds our URL fragments together, the `../` does the same, but it takes us up one folder level.
 
 Here's an example. I have an inside page:
 
@@ -82,7 +81,7 @@ https://mejo187.com/images/space.jpg
 The folder _my-inside-page_ and the folder _images_ are on the same level, so I need to jump up a level to relatively reference the file. This is what that looks like:
 
 ```html
-<img src="../images/space.jpg" alt="The Milky Way Galaxy"/>
+<img src="../images/space.jpg" alt="The Milky Way Galaxy" />
 ```
 
 The relative URL:
@@ -94,8 +93,7 @@ The relative URL:
 Is basically saying:
 
 ```html
-https://www.mejo.com/my-inside-page + images/space.jpg
-remove from the path ^^^^^^^^^^^^^^
+https://www.mejo.com/my-inside-page + images/space.jpg remove from the path ^^^^^^^^^^^^^^
 ```
 
 Which gives us this:
@@ -126,6 +124,4 @@ Relative URLs make that process a breeze.
 
 ## Conclusion
 
-After this quick lecture, you should have an understanding of why we want to use relative URLs when possible. It will take practice to get right! Check out this quick demo if you would like extra help.
-
-[How to Use Relative Links](/demo/how-to-use-relative-links/)
+After this quick lecture, you should have an understanding of why we want to use relative URLs when possible. It will take practice to get right!
