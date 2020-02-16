@@ -8,6 +8,6 @@ description: A full guide on how to complete the first HTML assignment.
 
 ## Video
 
-{{< vimeo 391613621 >}}
+{{< vimeo 391836808 >}}
 
 Watch this video to see how to complete your first HTML assignment, step-by-step.
