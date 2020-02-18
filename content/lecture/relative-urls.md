@@ -10,7 +10,11 @@ description: How to write URLs without using the domain or protocol.
 
 When you are linking to resources inside your own website, you do not need to use the protocol or domain name in your URL. You can use something called relative URLs instead.
 
-To keep things simple, I am going to advocate for a certain style of relative URL, one that is relative the current folder.
+{{< vimeo 392124413 >}}
+
+You can download the project in the video and follow along if you would like.
+
+[Download Relative URL Project](/zips/relative-urls.zip)
 
 ## Current Folder
 
