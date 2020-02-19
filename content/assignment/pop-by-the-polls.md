@@ -2,7 +2,7 @@
 title: Pop by the Polls
 date: 2020-02-19
 categories: []
-draft: true
+draft: false
 description: Research the political process, a candidate, visit a polling place, and make a website about it.
 ---
 
@@ -37,6 +37,8 @@ Just to be clear, that's roughly five percentages. One for each of the first thr
 Your next task is to visit a polling place. Luckily, there is a one right by campus! It is at Chapel of the Cross. This is the address:
 
 304 E FRANKLIN ST, CHAPEL HILL, NC 27514
+
+{{< figure src="/images/pop-by-the-polls/chapel-of-the-cross-map.png" >}}
 
 It is open from 8:00 AM to 7:30 PM. You can look up other early voting location here:
 
