@@ -46,7 +46,7 @@ When you are there, you need to do three things:
 
 ## Vote (optional)
 
-You are required to visit a polling place for this assignment. If you wanted to vote, you could do it while you were there.
+You are required to visit a polling place for this assignment. You are not required to vote. If you wanted to vote, you could do it while you are there.
 
 You can register and vote on the same day in North Carolina, from now until the end of the month.
 
