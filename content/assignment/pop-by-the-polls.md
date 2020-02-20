@@ -88,12 +88,14 @@ Here, you will take that ballot you grabbed from the early voting location, and 
 
 ## Grading and Assistance
 
-Not only is this a completion grade, I will be making video tutorials on how to use practical elements from HTML and practical styles from CSS to complete this project. I will make a video tutorial of visiting the early voting place too. It is a short walk from our classroom.
+This is a multipart completion grade. I will go through each section and ask, "did you do this section?", if the answer is yes, they you will get the points for that section.
 
-If you want to use your own styles and layout, go for it! But if you would rather follow along with me, that is also cool.
+I will be making video tutorials on how to use practical elements from HTML and practical styles from CSS to complete this project. I will make a video tutorial of visiting the early voting place too. It is a short walk from our classroom.
+
+If you want to use your own styles and layout, go for it!
 
 ## Conclusion
 
-Once you have completed the project, turn it in on Sakai. Be mindful of time managment. There might be other assignments and projects out while this one is out. It is due on March 2nd.
+Once you have completed the project, turn it in on Sakai. Be mindful of time – there might be other assignments and projects out while this one is out. It is due on March 2nd.
 
 [Go to Sakai](https://sakai.unc.edu)
