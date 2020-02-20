@@ -8,9 +8,9 @@ description: Research the political process, a candidate, visit a polling place,
 
 ## Introduction
 
-This assignment focuses on content sourcing, journalism, and web development. We are will be creating a small website that details issues being discussed this election, a small profile on a candidate, details of a local polling place, and an HTML form of a voting ballot.
+This assignment focuses on content sourcing, journalism, and web development. We will be creating a small website that details issues being discussed during this election, a small profile on a candidate, details of a local polling place, and an HTML form of a voting ballot.
 
-## I Side With
+## Research Issues
 
 The first step of this assignment is to visit a site that will display issues being discussed this election cycle. After you finish the quiz, you will be presented with a selection of candidates that match the responses on the issues.
 
@@ -18,13 +18,13 @@ The first step of this assignment is to visit a site that will display issues be
 
 From this quiz, pick out three issues / questions that were asked. Write a sentence about each, in a balanced way. That is, explain the issue / question itself, but do not convey your thinking on it.
 
-## Pick a Candidate
+## Pick Candidate
 
 This does not have to be a candidate that you prefer or identify with. You can research whichever candidate you like. Put together a short paragraph discussing the issues that matter the most to the candidate. You might include some interesting facts about the candidate as well.
 
 To be clear, this does not have to be informed by, or be representative of, your personal beliefs in any way. You could do a profile on Vermin Supreme if you wanted, so long as you researched him like any other candidate.
 
-## Visit a Polling Place
+## Visit Polling Place
 
 Your next task is to visit a polling place. Luckily, there is a one right by campus! It is at Chapel of the Cross.
 
@@ -46,21 +46,21 @@ When you are there, you need to do three things:
 
 ## Vote (optional)
 
-You are required to visit a polling place for this assignment. If you wanted to vote, this would be a good time to do it.
+You are required to visit a polling place for this assignment. If you wanted to vote, you could do it while you were there.
 
-Did you know that you can register to vote and vote on the same day in North Carolina, from now until the end of the month?
+You can register and vote on the same day in North Carolina, from now until the end of the month.
 
-All you need is proof of residency for this county. That could be a:
+All you need is proof of residency for this county. That could be:
 
 - Utility Bill
 - Bank Statement
 - Government Check
 - Paycheck
-- Government document
+- Government Document
 
-Even if you are from out of state, or your family lives somewhere else in North Carolina, you can still vote here if you consider this your "permanent home", as in, you spend the majority of your time here and plan to stay after graduating. You cannot vote in both places.
+Even if you are from out of state, or your family lives somewhere else in North Carolina, you can still vote here if you consider this your "permanent home", as in, you spend the majority of your time here and plan to stay after graduating. You cannot vote in multiple places.
 
-**You are not required to vote for this assignment. You will not receive any reward for doing so. You will not be penalized for not doing so.**
+**You are not required to vote for this assignment. You will not receive any reward for voting. You will not be penalized for not voting. You will not be asked if you voted.**
 
 ## One Page Website
 
