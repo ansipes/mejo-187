@@ -16,7 +16,7 @@ The first step of this assignment is to visit a site that will display issues be
 
 [Visit ISideWith](https://www.isidewith.com/)
 
-From this quiz, pick out three issues / questions that were asked. Write a sentence about each, in a balanced way. That is, explain the issue / question itself, but do not convey your thinking on it.
+From this quiz, pick out four issues / questions that were asked. Write a sentence about each, in a balanced way. That is, explain the issue / question itself, but do not convey your thinking on it.
 
 ## Pick Candidate
 
