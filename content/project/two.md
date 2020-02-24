@@ -12,6 +12,8 @@ The goal of this assignment is to challenge you to create a well-designed, easy-
 
 You will be given all the assets necessary to complete the assignment, including text, video files, photos and graphics.
 
+It is due on March 23rd. So you have about three weeks to do it, not counting Spring break.
+
 ## Deliverables
 
 Your website will be published on the Internet using your own URL, under the subdirectory: /project-two/. For example, your URL will be something like http://yourdomainname.com/project-two/
