@@ -95,8 +95,6 @@ Here is an example of good student work. It is an impressive site, but it uses B
 
 [Example II](http://www.madisonwalls.org/project2/index.html)
 
-Here is an example of good student work. It does the basics well.
-
 ## Rubric
 
 ### Wireframe and Prototype (10pts)
