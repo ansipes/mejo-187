@@ -33,3 +33,9 @@ Here is the starter zip of the project. It includes helpful comments and placeho
 ## Tutorials
 
 All of the tutorials for this assignment will be listed here.
+
+### Main HTML
+
+This is a tutorial on how to set up the main HTML of the page.
+
+{{< vimeo 393601331 >}}
