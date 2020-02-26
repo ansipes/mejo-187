@@ -39,3 +39,9 @@ All of the tutorials for this assignment will be listed here.
 This is a tutorial on how to set up the main HTML of the page.
 
 {{< vimeo 393601331 >}}
+
+### Card HTML
+
+This is a tutorial on how to set up the card HTML of the page.
+
+{{< vimeo 393810537 >}}
