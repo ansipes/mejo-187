@@ -66,6 +66,6 @@ This tutorial focuses on CSS that makes a decent looking card.
 
 ### Header CSS
 
-This tutorial focuses on CSS that gives the gradient its size and gradient.
+This tutorial focuses on CSS that gives the header its size and gradient.
 
 {{< vimeo 394359852 >}}
