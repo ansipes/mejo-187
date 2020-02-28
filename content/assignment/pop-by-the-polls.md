@@ -54,7 +54,7 @@ Whoops! I typed something slightly wrong previously. Here's the fix.
 
 ### General CSS
 
-Here is some easy CSS properties we can assign to get our web project closer to our XD project. The idea here is taking small steps, and verifying them as you go along.
+Here are some easy CSS properties we can assign to get our web project closer to our XD project. The idea here is taking small steps, and verifying them as you go along.
 
 {{< vimeo 394359321 >}}
 
