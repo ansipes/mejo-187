@@ -45,3 +45,27 @@ This is a tutorial on how to set up the main HTML of the page.
 This is a tutorial on how to set up the card HTML of the page.
 
 {{< vimeo 393810537 >}}
+
+### Small Correction
+
+Whoops! I typed something slightly wrong previously. Here's the fix.
+
+{{< vimeo 394359275 >}}
+
+### General CSS
+
+Here is some easy CSS properties we can assign to get our web project closer to our XD project. The idea here is taking small steps, and verifying them as you go along.
+
+{{< vimeo 394359321 >}}
+
+### Card CSS
+
+This tutorial focuses on CSS that makes a decent looking card.
+
+{{< vimeo 394359636 >}}
+
+### Header CSS
+
+This tutorial focuses on CSS that gives the gradient its size and gradient.
+
+{{< vimeo 394359852 >}}
