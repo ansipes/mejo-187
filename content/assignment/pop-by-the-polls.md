@@ -69,3 +69,16 @@ This tutorial focuses on CSS that makes a decent looking card.
 This tutorial focuses on CSS that gives the header its size and gradient.
 
 {{< vimeo 394359852 >}}
+
+### Layout for Large Card
+
+{{< vimeo 394665434 >}}
+
+### Layout for Issue Cards
+
+{{< vimeo 394666396 >}}
+
+### Layout for Header
+
+{{< vimeo 394668997 >}}
+
