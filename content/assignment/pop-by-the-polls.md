@@ -72,20 +72,66 @@ This tutorial focuses on CSS that gives the header its size and gradient.
 
 ### Layout for Large Card
 
+This tutorial focuses on the CSS you need to create a desktop layout for the large cards.
+
 {{< vimeo 394665434 >}}
 
 ### Layout for Issue Cards
+
+This tutorial focuses on the CSS you need to create a desktop layout for the issue cards.
 
 {{< vimeo 394666396 >}}
 
 ### Layout for Header
 
+This tutorial focuses on the CSS you need to create a desktop layout for the header.
+
 {{< vimeo 394668997 >}}
 
 ### Main Finishing Touches
+
+This tutorial focuses on the CSS you need to put the finishing touches on the main section of your site.
 
 {{< vimeo 394705065 >}}
 
 ### Footer HTML and CSS
 
+This tutorial focuses on the HTML and CSS you need to create a footer.
+
 {{< vimeo 394705337 >}}
+
+### Navigation HTML
+
+This tutorial focuses on the HTML you need to create a navbar.
+
+{{< vimeo 394817708 >}}
+
+### Navigation Desktop CSS
+
+This tutorial focuses on the CSS you need to create a desktop navbar.
+
+{{< vimeo 394817467 >}}
+
+### Navigation Mobile CSS
+
+This tutorial focuses on the CSS you need to create a mobile navbar. Please make sure to watch this video until the end. I made a small mistake by using absolute positioning instead of fixed positioning. I explain the fix (changing two property values) at the end of the video.
+
+{{< vimeo 394817880 >}}
+
+### Navigation JavaScript
+
+This tutorial focuses on the JavaScript you need to create a navbar.
+
+{{< vimeo 394818683 >}}
+
+### Customize and Zip
+
+This tutorial focuses on filling out the project with your own content and zipping it up to turn in on Sakai.
+
+{{< vimeo 394819021 >}}
+
+### Deploy
+
+This tutorial focuses on deploying your project to your own website.
+
+{{< vimeo 394819095 >}}
