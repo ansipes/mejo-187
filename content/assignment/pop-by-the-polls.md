@@ -82,3 +82,10 @@ This tutorial focuses on CSS that gives the header its size and gradient.
 
 {{< vimeo 394668997 >}}
 
+### Main Finishing Touches
+
+{{< vimeo 394705065 >}}
+
+### Footer HTML and CSS
+
+{{< vimeo 394705337 >}}
