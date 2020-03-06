@@ -26,7 +26,7 @@ We will push the apps to your servers in class on the due date. You will submit 
 
 The assets provided can be downloaded from the zip link below.
 
-[Download Project II Assets](#)
+[Download Project II Assets](/zips/project-two-assets.zip)
 
 You must use all the assets provided for your site. They are:
 
