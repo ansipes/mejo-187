@@ -48,7 +48,7 @@ You should use these assets as is, but you may organize them as you see fit, edi
 
 ### Design
 
-You should complete wireframes and prototypes to ensure you have a solid design in mind before you start coding. It will be worth just 10% of your total grade. It will not be critiqued like previous assignments, but it needs to look pretty close to your final result in HTML and CSS.
+You should complete wireframes and prototypes to ensure you have a solid design in mind before you start coding. It will be worth just 10% of your total grade. It will not be critiqued like previous assignments, but it needs to look pretty close to ysour final result in HTML and CSS.
 
 Students that complete a wireframe and prototype before they start writing code typically experience more clarity in how to tackle the project and less frustration throughout the project.
 
