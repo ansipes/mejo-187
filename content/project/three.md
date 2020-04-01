@@ -46,6 +46,11 @@ This project does not require a lot of coding (although you will inevitably have
 9. Find another plugin that will enhance your site (e.g., masonry layout, animation, etc.). There are plugins for almost anything you can think of...but as always, be tasteful. Note: You may NOT a page-builder plugin (and you probably wouldn't want to, anyway).
 10. Customize the theme as needed, using the Additional CSS panel, dev tools, and your own ID's and classes that you create in the code for each page.
 
+## Examples
+
+- madelinekraft.com
+- carolinemwillard.com
+
 ## Checklist and Submission
 
 You will simply submit your main website URL in Sakai (e.g., www.myname.com). Before you do, make sure you've included all of the following:
@@ -56,4 +61,3 @@ You will simply submit your main website URL in Sakai (e.g., www.myname.com). Be
 - Another plugin to enhance the front-end design of your site
 - A link to a printable PDF of your resume.
 - Well-written, typo-free, grammatically correct text. I will take off points for bad spelling and grammar. You will be showing this to potential employers, not just me, so it must be spotless.
-

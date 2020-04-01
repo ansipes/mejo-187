@@ -88,3 +88,5 @@ Here are some examples of work from previous semesters. These are not flawless, 
 
 - http://dominiquejabbour.com/project4/
 - http://callieriek.com/project4/
+- http://coemacfarlane.com/project-4/
+- http://madelinekraft.com/mejo187_project4/
