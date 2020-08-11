@@ -1,6 +1,6 @@
 ---
 title: Get Adobe XD
-date: 2020-01-08
+date: 2020-08-11
 categories: []
 draft: false
 description: You will create wireframes and prototypes in Adobe XD. Follow this guide to download and install Adobe XD on your computer. Please confirm completion of this assignment on Sakai.
