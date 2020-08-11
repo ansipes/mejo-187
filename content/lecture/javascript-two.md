@@ -2,7 +2,7 @@
 title: JavaScript II
 date: 2020-04-01
 categories: []
-draft: false
+draft: true
 description: Comments, Operators, and Functions
 ---
 

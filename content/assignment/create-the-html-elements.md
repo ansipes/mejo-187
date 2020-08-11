@@ -2,7 +2,7 @@
 title: Create the HTML Elements
 date: 2020-02-19
 categories: []
-draft: false
+draft: true
 description: Download the included web project zip. Open in Visual Studio Code. Using the included annotations and HTML comments to type out the proper HTML for each page.
 ---
 

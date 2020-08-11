@@ -2,7 +2,7 @@
 title: Typography
 date: 2020-01-27
 categories: []
-draft: false
+draft: true
 description: Like color, typography is an art and a science. Some would say it’s a lost art, and some would say is an underappreciated science.
 ---
 

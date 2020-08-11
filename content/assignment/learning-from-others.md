@@ -2,7 +2,7 @@
 title: Learning from Others
 date: 2020-01-27
 categories: []
-draft: false
+draft: true
 description: Reference some design or component from a website of your choice. Copy the style and functionality into Adobe XD.
 ---
 

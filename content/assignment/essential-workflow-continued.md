@@ -2,7 +2,7 @@
 title: Essential Workflow Continued
 date: 2020-01-22
 categories: []
-draft: false
+draft: true
 description: The objective of this exercise is to continue to practice the Web Design Process and apply Web Design Principles.
 ---
 

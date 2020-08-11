@@ -2,7 +2,7 @@
 title: Project IV
 date: 2020-03-23
 categories: []
-draft: false
+draft: true
 description: The project will be a single-page web app that features a main interactive graphic (e.g., a timeline) and data visualization in the form of a Google Chart.
 ---
 

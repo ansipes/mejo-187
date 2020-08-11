@@ -2,7 +2,7 @@
 title: Zoom VI
 date: 2020-04-08
 categories: []
-draft: false
+draft: true
 description:
 ---
 

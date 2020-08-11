@@ -2,7 +2,7 @@
 title: Zoom VIII
 date: 2020-04-15
 categories: []
-draft: false
+draft: true
 description:
 ---
 

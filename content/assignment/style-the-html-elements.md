@@ -2,7 +2,7 @@
 title: Style the HTML Elements
 date: 2020-02-24
 categories: []
-draft: false
+draft: true
 description: Download the included web project zip. Open in Visual Studio Code. Follow along in class and style the elements.
 ---
 

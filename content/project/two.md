@@ -2,7 +2,7 @@
 title: Project II
 date: 2020-02-24
 categories: []
-draft: false
+draft: true
 description: Combine your knowledge of prototyping, HTML, and CSS to create a well-designed, easy-to-navigate, flawlessly scripted multi-page website.
 ---
 

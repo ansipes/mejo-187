@@ -2,7 +2,7 @@
 title: Identify the HTML Elements
 date: 2020-02-17
 categories: []
-draft: false
+draft: true
 description: Download the included Adobe XD project. Share the project. Using the share link, annotate the elements with the matching HTML element tag.
 ---
 

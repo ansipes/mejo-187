@@ -2,7 +2,7 @@
 title: Project I
 date: 2020-01-26
 categories: []
-draft: false
+draft: true
 description: Combine your knowledge of layout, color, typography, and branding to create a rich and engaging prototype.
 ---
 

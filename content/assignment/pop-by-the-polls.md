@@ -2,7 +2,7 @@
 title: Pop by the Polls
 date: 2020-02-19
 categories: []
-draft: false
+draft: true
 description: Research the political process, a candidate, visit a polling place, document a sample ballot, and make a website about it.
 ---
 

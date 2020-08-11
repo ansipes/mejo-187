@@ -2,7 +2,7 @@
 title: Web Design Principles
 date: 2020-01-13
 categories: []
-draft: false
+draft: true
 description: Here are some simple rules you can follow to improve your web designs.
 ---
 

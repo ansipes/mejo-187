@@ -2,7 +2,7 @@
 title: Learning from Others
 date: 2020-01-26
 categories: []
-draft: false
+draft: true
 description: How to import resources from websites like Awwwards to model layouts, styles, and more.
 ---
 

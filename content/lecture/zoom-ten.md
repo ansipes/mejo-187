@@ -2,7 +2,7 @@
 title: Zoom X
 date: 2020-04-22
 categories: []
-draft: false
+draft: true
 description:
 ---
 

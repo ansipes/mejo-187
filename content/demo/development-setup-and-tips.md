@@ -2,7 +2,7 @@
 title: Development Setup and Tips
 date: 2020-02-12
 categories: []
-draft: false
+draft: true
 description: A video to get you setup and some tips to help increase productivity.
 ---
 

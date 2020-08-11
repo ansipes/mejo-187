@@ -2,7 +2,7 @@
 title: WordPress II
 date: 2020-03-25
 categories: []
-draft: false
+draft: true
 description: A brief introduction to WordPress.
 ---
 

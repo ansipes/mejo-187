@@ -2,7 +2,7 @@
 title: HTML Walkthrough
 date: 2020-02-12
 categories: []
-draft: false
+draft: true
 description: A full guide on how to complete the first HTML assignment.
 ---
 

@@ -2,7 +2,7 @@
 title: Zoom I
 date: 2020-03-23
 categories: []
-draft: false
+draft: true
 description:
 ---
 

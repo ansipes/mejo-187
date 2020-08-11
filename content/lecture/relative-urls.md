@@ -2,7 +2,7 @@
 title: Relative URLs
 date: 2020-02-14
 categories: []
-draft: false
+draft: true
 description: How to write URLs without using the domain or protocol.
 ---
 

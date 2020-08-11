@@ -2,7 +2,7 @@
 title: Zoom VII
 date: 2020-04-13
 categories: []
-draft: false
+draft: true
 description:
 ---
 

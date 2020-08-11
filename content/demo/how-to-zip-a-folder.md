@@ -2,7 +2,7 @@
 title: How to Zip a Folder
 date: 2020-02-16
 categories: []
-draft: false
+draft: true
 description: Here is how to zip a website folder so you can turn it in on Sakai or deploy it to your website.
 ---
 

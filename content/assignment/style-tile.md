@@ -2,7 +2,7 @@
 title: Style Tile
 date: 2020-01-29
 categories: []
-draft: false
+draft: true
 description: You have now read about all of the components that make up a style tile. Create one using the archetype assigned to you in class.
 ---
 
