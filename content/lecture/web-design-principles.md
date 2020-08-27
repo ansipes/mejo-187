@@ -1,8 +1,8 @@
 ---
 title: Web Design Principles
-date: 2020-01-13
+date: 2020-08-20
 categories: []
-draft: true
+draft: false
 description: Here are some simple rules you can follow to improve your web designs.
 ---
 
@@ -63,7 +63,3 @@ Think critically about every element or feature your introduce into your design.
 ## Conclusion
 
 These are the web design principles we will be following throughout the semester: Contrast, Repetion, Alignment, Proximity, and Purpose. If you take these principles into consideration when crafting your design, you will end up with something that is pleasing to look at and easy to use.
-
-Thanks for reading this lecture! When you are ready, please head over to Sakai to take your reading quiz.
-
-[Go to Sakai](https://sakai.unc.edu)

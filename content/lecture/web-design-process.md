@@ -96,7 +96,3 @@ When beginners try to design as they develop, they are typically dissapointed an
 ## Conclusion
 
 To spend your time wisely, it is best to follow the **Web Design Process** detailed above. By completing each phase in this order, you can validate your ideas, catch mistakes, and refine your design without too much work.
-
-Thanks for reading this lecture! When you are ready, please head over to Sakai to take your reading quiz.
-
-[Go to Sakai](https://sakai.unc.edu)
