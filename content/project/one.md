@@ -94,6 +94,8 @@ A paragraph discussing the purpose of the site.
 
 Source these from Unsplash and other royalty free websites.
 
+[Image Resources](https://mejo187.com/resource/#images)
+
 ### Navigation
 
 These pages need to be included in your navigation menu, but don't necessarily need to be created as art boards. You should probably pick two of them though, for your inside pages.
