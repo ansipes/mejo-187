@@ -8,19 +8,13 @@ description: Combine your knowledge of layout, color, typography, and branding t
 
 ## Introduction
 
-This project is worth 15% of your final grade in this class. The goal of this project is to create a responsive website design based on the 1985 Pulitzer-prize winning story “Life on the Land.” Before you start designing, you will want to read the five-part series by John Sanford.
+This project is worth 15% of your final grade in this class. The goal of this project is to create a responsive website design based on a single topic from your semester theme.
 
-[Read the Story](http://www.johnsandford.org/farm.html)
-
-For the purpose of this project, we are going to imagine the New York Times is hiring you to design a multimedia website for this written story. You will create wireframes and color comps with a color scheme and text treatment that is consistent with the content of the site that you are creating. You should use the assets provided, and you need to design a layout with typography and color scheme that you believe fits with the project. It should be professional and look like it could appear on the New York Times.
+You will create wireframes and color comps with a color scheme and text treatment that is consistent with the content of the site that you are creating. It should be professional and look like it could appear in an online newspaper or magazine.
 
 ## Due Date
 
-The project is due Monday at 6:00 PM, February 10th. Late work will receive 5 points off during the first 24 hours after the deadline, and 10 points off for each 24 hours period after that. Even if there is no credit left to earn on an assignment, you are always encouraged to turn it in for feedback.
-
-## Alternatives
-
-You are welcome to use an alternative topic, but it must have sufficient text content so won't need to use lorem ipsum everywhere. You may not pick a topic already covered in a previous assignment. You must submit your alternative topic to me via email by 7:45 PM Wednesday, January 29th. I will review it, and let you know whether it is approved or not that night. Make sure to include details simliar to the ones included in this brief. For example, discuss the brand and feel you'll aim to replicate in your submission.
+The project is due Thursday at 8:45 PM, September 24th. Late work will receive 5 points off during the first 24 hours after the deadline, and 10 points off for each 24 hours period after that. Even if there is no credit left to earn on an assignment, you are always encouraged to turn it in for feedback.
 
 ## Requirements
 
@@ -36,13 +30,13 @@ Design a set of wireframes and design comps using Adobe XD and the grid layout 
 - 1 Desktop Home Page Prototype Art Board
 - 2 Desktop Inside Page Prototype Art Boards
 
-There should be one (1) XD project with at least thirteen (13) art boards. I recommend you create the wireframes first, then duplicate each one and work off them to build your color comps. Design the entire page; that includes scrolling content below the bottom border each art board. You do not, however, need to include all of the text from the Sanford story. Just include enough to show the design for your chosen section of the story; you can indicate the existence of the extra text by fading it out at the bottom, adding a 'read more' button, etc. It's up to you.
+There should be one (1) XD project with at least thirteen (13) art boards. I recommend you create the wireframes first, then duplicate each one and work off them to build your color comps. Design the entire page; that includes scrolling content below the bottom border each art board. Include enough content to show the design for your chosen section of the story; you can indicate the existence of the extra text by fading it out at the bottom, adding a 'read more' button, etc. It's up to you.
 
 Please annotate your wireframes to help explain any UI/UX features that cannot be demonstrated with XD prototyping methods. Before you conclude that something cannot be done in XD, do a quick Google and also ask me before writing an annotation. I will deduct points if you make an annotation for some interactive element that could have been modeled in XD.
 
 Be creative but tasteful. Usability is paramount.
 
-You will also do a one-page writeup about why you chose to design the site the way you did. Explain your creative decisions regarding the interactive features, color scheme, typography choices, layout, and style.  
+You will also do a one-page writeup about why you chose to design the site the way you did. Explain your creative decisions regarding the interactive features, color scheme, typography choices, layout, and style.
 
 ## Process
 
@@ -77,30 +71,28 @@ Write a one-page document that explains your web design choices. I want to see t
 - What elements would appeal to that audience?
 - How would they likely access the site (mobile or desktop)?
 - What is my competition (i.e. similar projects)?
-- How does my visual design fit the themes of the story while staying consistent with New York Times branding?
+- How does my visual design fit the themes of the story while staying consistent with my chosen branding?
 - What purpose do my interactive features serve? How do they help tell the story?
 
 ## Assets
 
-You will need to include these assets unless otherwise noted. If you are doing an alternative topic, you should have a subsitute for all of the assets listed below.
+The actual content that will populate the site / design.
 
 ### Title
 
-"I Am A Farmer." – You can edit/change this if you wish (I recommend that you do). You will want to design the title typography, thinking about which words should be emphasized, and how the words should be read.
+The title of the topic article.
 
 ### Subtitle
 
-Portrait of an American Farm Family (You can edit/change this if you wish.)
+Text that is no longer that a sentence that gives more detail.
 
 ### Introduction
 
-As America shifts towards a more urbanization, rural farmers face economic crisis in a rapidly changing culture. David Benson, a Minnesota farmer, shares his story about surviving with his family in a rural setting and his family’s history of working the land. 
+A paragraph discussing the purpose of the site.
 
 ### Images
 
-A folder of 20 images (including NYT logos) is provided below. For the purposes of this assignment, we will assume all these images are of the Benson family members and their farm, although they are not. You should make your photo editing choices based on this assumption. You can always grab more images from photo websites detailed on our resources page. You do not need to use all of these images.
-
-[Download Images](/zips/project-one-assets.zip)
+Source these from Unsplash and other royalty free websites.
 
 ### Navigation
 
@@ -189,3 +181,8 @@ Here is a previous submission that is considered good work.
 
 [Desktop](https://xd.adobe.com/view/32c4347e-8065-4c93-58cf-17b2b69ecd7b-44f5/)
 
+Here are some alternative topics students have used in the past:
+
+[AWS](https://xd.adobe.com/view/1e6fe5dd-c564-409e-76f3-f4f66a3191ab-685e/)
+
+[Carolina For The Kids](https://xd.adobe.com/view/9854a59a-86a1-40a9-7843-041316b9e040-ee65/)
