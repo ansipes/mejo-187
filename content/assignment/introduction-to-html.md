@@ -18,7 +18,7 @@ Open the following W3C tutorials and refer to them as needed.
 
 ## Get Organized
 
-1. Create a GitHub repository called introduction-to-html.
+1. Create a GitHub repository called intro-to-html.
 2. Open Visual Studio Code
 3. Clone the repository to your local machine
 4. Make a file called index.html
@@ -43,12 +43,6 @@ Open the following W3C tutorials and refer to them as needed.
 1. Click the "Source Control" tab in Visual Studio Code
 2. Type out a commit message and click the check icon.
 3. You may be asked if there are no staged changes, to stage all changes. Click "Always".
-
-## Set up GitHub Pages
-
-1. Visit your GitHub repo on github.com
-2. Click "Settings" and scroll down to "GitHub Pages"
-3. Select "master" as the GitHub branch
 
 Soon, your GitHub repo will auto publish your project everytime you push a commit.
 
