@@ -1,8 +1,8 @@
 ---
 title: Introduction to HTML
-date: 2020-02-12
+date: 2020-09-10
 categories: []
-draft: true
+draft: false
 description: The objective of this exercise is get comfortable writing HTML and using documentation.
 ---
 
@@ -18,13 +18,15 @@ Open the following W3C tutorials and refer to them as needed.
 
 ## Get Organized
 
-1. Create a project folder on your machine called introduction-to-html. Create a subfolder inside the project folder called images. Add a JPG to the images subfolder.
-2. Open Visual Studio Code.
-3. Create a new HTML file and save it as index.html. Make sure to save it in the root of your project folder (NOT in the images subfolder).
+1. Create a GitHub repository called introduction-to-html.
+2. Open Visual Studio Code
+3. Clone the repository to your local machine
+4. Make a file called index.html
+5. Make a folder called images
 
 ## Write HTML
 
-1. Make title of the HTML file your name.
+1. Make title of the HTML file your name. You can type "!" in a blank HTML file to get the HTML boilerplate.
 2. Within the Body, Create a Heading of H1 that says "All About Me"
 3. Create a new paragraph below this line. Be sure to use an opening and closing tag and include text as the content. The text can be anything you like.
 4. Copy this line into your code and make the word Bold in the line bold
@@ -38,12 +40,22 @@ Open the following W3C tutorials and refer to them as needed.
 
 ## Save your Files
 
-1. Zip your project folder. On a Mac,  control + click, and choose 'Compress.' On a PC, right-click > Send To > Compressed Folder
-2. Upload the zipped file to Sakai
-3. I will download your folder and view the HTML page on the web.
+1. Click the "Source Control" tab in Visual Studio Code
+2. Type out a commit message and click the check icon.
+3. You may be asked if there are no staged changes, to stage all changes. Click "Always".
+
+## Set up GitHub Pages
+
+1. Visit your GitHub repo on github.com
+2. Click "Settings" and scroll down to "GitHub Pages"
+3. Select "master" as the GitHub branch
+
+Soon, your GitHub repo will auto publish your project everytime you push a commit.
+
+https://username.github.io/introduction-to-html
 
 ## Conclusion
 
-After you complete this assignment, you should feel a little more familiar with working with HTML.
+After you complete this assignment, you should feel a little more familiar with working with HTML. Submit the link of your live website in Sakai.
 
 [Go to Sakai](https://sakai.unc.edu)

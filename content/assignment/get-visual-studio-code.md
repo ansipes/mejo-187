@@ -1,8 +1,8 @@
 ---
 title: Get Visual Studio Code
-date: 2020-01-08
+date: 2020-09-10
 categories: []
-draft: true
+draft: false
 description: You will create HTML, CSS, and JavaScript files in Visual Studio Code. Follow this guide to download, install, and configure Visual Studio Code on your computer. Please confirm completion of this assignment on Sakai.
 ---
 
