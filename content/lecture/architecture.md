@@ -1,8 +1,8 @@
 ---
 title: Architecture
-date: 2020-02-12
+date: 2020-09-17
 categories: []
-draft: true
+draft: false
 description: Simple websites consist of files and folders.
 ---
 
