@@ -1,22 +1,22 @@
 ---
 title: Project II
-date: 2020-02-24
+date: 2020-09-29
 categories: []
-draft: true
-description: Combine your knowledge of prototyping, HTML, and CSS to create a well-designed, easy-to-navigate, flawlessly scripted multi-page website.
+draft: false
+description: Combine your knowledge of prototyping, HTML, and CSS to create a well-designed, easy-to-navigate, flawlessly coded multi-page website.
 ---
 
 ## Introduction
 
-The goal of this assignment is to challenge you to create a well-designed, easy-to-navigate, flawlessly scripted multi-page website.
+The goal of this assignment is to challenge you to create a well-designed, easy-to-navigate, flawlessly coded multi-page website. You will pick another one of your topics from your theme.
 
-You will be given all the assets necessary to complete the assignment, including text, video files, photos and graphics.
-
-It is due on March 23rd. So you have about three weeks to do it, not counting Spring break.
+It is due on October 20th.
 
 ## Deliverables
 
-Your website will be published on the Internet using your own URL, under the subdirectory: /project-two/. For example, your URL will be something like http://yourdomainname.com/project-two/
+Your website will be published using GitHub pages with your own URL. Your repository name will be project-two. For example, your URL will be something like https://username.github.io/project-two/
+
+Alternatively, you can name your repository something different, like my-project-topic.
 
 We will push the apps to your servers in class on the due date. You will submit the URL to Sakai once the app is up and running on your server.
 
@@ -24,31 +24,22 @@ We will push the apps to your servers in class on the due date. You will submit 
 
 ### Assets
 
-The assets provided can be downloaded from the zip link below.
+Here are the required materials you need for your site. If you do not source them from an article or document relevant to your topic, you can write them.
 
-[Download Project II Assets](/zips/project-two-assets.zip)
-
-You must use all the assets provided for your site. They are:
-
-- An overall Intro for the site (overallintro.doc)
-- Powering a Nation logo (logo.psd and/or logo_transparent.png); note: the logo with the transparent background gives you more flexibility in your design choices
-- Introductory text about electric power (gridintro.doc)
-- Introductory text about wind power (windintro.doc)
-- Introductory text about coal power (coalintro.doc)
-- Embed Video about the electric grid (http://vimeo.com/7645659)
-- Embed Video about wind power (http://vimeo.com/13528629)
-- Embed Video about coal power (http://vimeo.com/7645302)
-- Story about the “smart” electric grid (grid.doc)
-- A question-and-answer piece to help users understand coal power (coalqa.doc)
-- Photo to accompany the smart grid story (gridpic.jpg)
-- Cutline for the smart grid photo (gridcut.jpg)
-- Credit information for items listed above (credits.doc)
-
-You should use these assets as is, but you may organize them as you see fit, edit the text and write additional descriptions for menus, headlines or other navigational elements as needed. You may add additional photos and graphics.
+- An introduction (a couple of paragraphs) discussing the purpose of the site.
+- A logo. If you need help making a logo, let me know! You can always use a dummy / stock logo from the web.
+- About an article's worth of text for the first inside page.
+- About an article's worth of text for the second inside page.
+- About an article's worth of text for the third inside page.
+- An embeded Vimeo or YouTube video for one of your inside pages.
+- An image for one of your inside pages.
+- An image for another one of your inside pages.
+- An FAQ section for one of your inside pages.
+- An inside page that lists the credits for your content.
 
 ### Design
 
-You should complete wireframes and prototypes to ensure you have a solid design in mind before you start coding. It will be worth just 10% of your total grade. It will not be critiqued like previous assignments, but it needs to look pretty close to ysour final result in HTML and CSS.
+You should complete wireframes and prototypes to ensure you have a solid design in mind before you start coding. It will be worth just 10% of your total grade. It will not be critiqued like previous assignments, but it needs to look pretty close to your final result in HTML and CSS.
 
 Students that complete a wireframe and prototype before they start writing code typically experience more clarity in how to tackle the project and less frustration throughout the project.
 
@@ -91,11 +82,24 @@ Here is an example of great student work. The student got the basics down, like 
 
 [Example I](http://madelinekraft.com/mejo187_project2/index.html)
 
-Here is an example of good student work. It is an impressive site, but it uses Bootstrap and jQuery. The goal here is to feel knowledgeable about every line of code you write.
+Here is an example of good student work. It is an impressive site, but it uses Bootstrap and jQuery, which we will not use.
 
 [Example II](http://www.madisonwalls.org/project2/index.html)
 
+If you see something that you want to emulate, do a quick Google search on how to do it. You might find a tutorial for exactly that! If you can't find anything, message me or schedule office hours, and I will show you how.
+
 ## Rubric
+
+### Checklist
+
+At minimum the HTML/CSS files you need are:
+
+- Home Page
+- Inside Page 1
+- Inside Page 2
+- Inside Page 3
+- Credits Page
+- Stylesheet
 
 ### Wireframe and Prototype (10pts)
 
