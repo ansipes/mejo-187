@@ -8,15 +8,31 @@ description: Research the political process, a candidate, visit a polling place,
 
 ## Overview
 
+Corrections:
+
+- This is for the General Election, not the Primaries. Anywhere you see "primary" or "primaries" mentioned, make sure to replace it with "general election" instead.
+- Visiting and taking a photo of a polling place is no longer required because of COVID-19 and remote instruction. Instead, look up your voting precinct, and use a picture of a map or a screenshot from Google Streetview
+- A sample ballot can be obtained by visiting your County's Board of Elections website (ask me for help, I'm happy to!)
+- You can pick a Presidential candidate from any party (Republican, Democrat, Libertarian, Green, Constitution)
+- If I ever mention deploying / GoDaddy in any video, please disregard. We use GitHub pages for our projects.
+
 {{< vimeo 393367068 >}}
 
-The project is due on March 4th at 6:00 PM.
+The assignment is due on October 15th at 8:45 PM. It is graded for completeness, P/F. Submissions that are incomplete shall not pass.
 
 ## Links
 
 If you would like help researching the issues, consider this website.
 
 [Visit ISideWith.com](https://isidewith.com)
+
+If you would like help searching for a sample ballot, go here:
+
+[Vote.org](https://vote.org)
+
+You can also look up your specific registration here, if you wanted a sample of your specific ballot (NC only):
+
+[NC Voter Lookup](https://vt.ncsbe.gov/RegLkup/)
 
 Here is the prototype for the website we will be making.
 
@@ -26,17 +42,49 @@ Here is the Adobe XD project. You may find the nesting and labeling helpful.
 
 [Download XD Project](/xds/pop-by-the-polls.xd)
 
-Here is the starter zip of the project. It includes helpful comments and placeholder files.
+Here is the template repository. It includes helpful comments and placeholder files.
 
-[Download Web Project](/zips/pop-by-the-polls.zip)
+[Repository Template](https://github.com/ansipes/pop-by-the-polls)
 
 ## Tutorials
 
 All of the tutorials for this assignment will be listed here.
 
+### Use Template and Deploy
+
+Use my template. It has all the files you need.
+
+[Template](https://github.com/ansipes/pop-by-the-polls)
+
+- Name your repository "pop-by-the-polls"
+- Click "Create Repository from Template"
+- Open Visual Studio Code
+- Click "Clone Repository"
+- Select "pop-by-the-polls"
+- Pick a location to save the repository
+- Open up the project
+
+Then follow these instructions:
+
+- Visit the repository on GitHub.com
+- Click the "Settings" tab
+- Scroll down to "GitHub Pages"
+- Select "master" or "main", and then select "root"
+- Click "Save"
+
+Make sure you regularly commit and push your changes to GitHub.
+
+That's it! Your project will soon be live at https://username.github.io/pop-by-the-polls/
+
+Now, let's write some code!
+
 ### Main HTML
 
 This is a tutorial on how to set up the main HTML of the page.
+
+Corrections:
+
+- Use the United States SVG, not the North Carolina SVG.
 
 {{< vimeo 393601331 >}}
 
@@ -114,7 +162,12 @@ This tutorial focuses on the CSS you need to create a desktop navbar.
 
 ### Navigation Mobile CSS
 
-This tutorial focuses on the CSS you need to create a mobile navbar. Please make sure to watch this video until the end. I made a small mistake by using absolute positioning instead of fixed positioning. I explain the fix (changing two property values) at the end of the video.
+This tutorial focuses on the CSS you need to create a mobile navbar. Please make sure to watch this video until the end.
+
+Corrections:
+
+- I made a small mistake by using absolute positioning instead of fixed positioning. I explain the fix (changing two property values) at the end of the video.
+- Please remove the "active" class that I assigned to overlay and the menu (around 19:03). I only added this to illustrate how adding a class can help us visually represent state.
 
 {{< vimeo 394817880 >}}
 
@@ -123,15 +176,3 @@ This tutorial focuses on the CSS you need to create a mobile navbar. Please make
 This tutorial focuses on the JavaScript you need to create a navbar.
 
 {{< vimeo 394818683 >}}
-
-### Customize and Zip
-
-This tutorial focuses on filling out the project with your own content and zipping it up to turn in on Sakai.
-
-{{< vimeo 394819021 >}}
-
-### Deploy
-
-This tutorial focuses on deploying your project to your own website.
-
-{{< vimeo 394819095 >}}
