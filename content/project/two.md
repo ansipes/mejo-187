@@ -74,7 +74,7 @@ Here are some things to remember as you start your site, as well as some resourc
 7. Test your site to make sure it looks good on both an iPhone X and a Desktop device that is 1280px wide.
 8. Try something new we haven't covered in class.
 9. Don’t wait till the last minute. You will run into problems – and some of them might break your site completely – so you need to allow time to debug. Successful students have typically followed this rule of thumb: finish building the site a few nights before the deadline, to allow the last night for debugging. An extra bonus is that you'll be able to get early feedback!
-10. Do not use any external resources (CSS, or JavaScript). This means no jQuery, no Bootstrap, no UI kit, no Bulma, etc. The goal here is to develop a reasonable understanding of the fundamentals of web development – not import a library to magically do it for us.
+10. Only use your own HTML, CSS, and JavaScript. You are permitted to use snippets I have provided to you in class or in assignments. Do not use any external resources (CSS, or JavaScript). This means no jQuery, no Bootstrap, no UI kit, no Bulma, etc. The goal here is to develop a reasonable understanding of the fundamentals of web development – not import a library to magically do it for us.
 
 ## Examples
 
