@@ -1,14 +1,14 @@
 ---
 title: Get Domain and Hosting
-date: 2020-01-08
+date: 2020-01-01
 categories: []
-draft: true
-description: In order to publish your websites to the web you will need a domain and hosting. For this course, GoDaddy will be providing both. Please confirm completion of this assignment on Sakai.
+draft: false
+description: In order to publish your websites to the web you will need a domain and hosting. For this course, GoDaddy will be providing both.ss
 ---
 
 ## Introduction
 
-In order to publish your websites to the web you will need a domain and hosting. For this course, GoDaddy will be providing both. Please confirm completion of this assignment on Sakai.
+In order to publish your websites to the web you will need a domain and hosting.
 
 ## Go to GoDaddy
 
@@ -64,7 +64,7 @@ This is where you will enter a credit or debit card. Once you have entered all o
 
 ## Review Your Order
 
-Almost done! Look over the checkout page and make sure everything looks correct. Your order total should not exceed \$30. If it does,**please do not continue**. You may email me directly for support.
+Almost done! Look over the checkout page and make sure everything looks correct. Your order total should not exceed \$30. If it does,**please do not continue**. Check with your instructor for support – hosting a website shouldn't cost a fortune!
 
 {{< figure src="/images/get-domain-and-hosting/step-nine.png" >}}
 
@@ -108,10 +108,6 @@ This is personal preference, but I opt out of GoDaddy's Customer Experience Impr
 
 ## Conclusion
 
-Nice! You just set up a website from scratch. You are finished for now – we will come back to this later in the semester. For this reason **please keep your login information handy**, both for the WordPress install and your GoDaddy account.
+Nice! You just set up a website from scratch.
 
 {{< figure src="/images/get-domain-and-hosting/step-seventeen.png" >}}
-
-Please make sure to confirm completion of this assignment on Sakai.
-
-[Go to Sakai](https://sakai.unc.edu)
