@@ -12,7 +12,7 @@ The goal of this assignment is to create a beautiful, effective, user-friendly n
 
 - Build a news website using a WordPress
 - Value: 15% of grade
-- Project due: By 11:55 PM, Thursday, November 5, 2020
+- Project due: By 11:55 PM, Thursday, November 10, 2020
 - Submit your online URL to Sakai
 
 ## Todo
