@@ -18,13 +18,6 @@ Remember, this story will be published - in your website, at the very least. It 
 
 All this being said, if you wish to pursue your own story for this project, you must pitch the idea to me with a brief message in Sakai before the start of class. In your pitch, please explain your idea and show that you have reliable data and readily available assets (e.g., images). I don’t want you scrambling to find data on your topic with one week to go, when you should be coding.
 
-The three suggested topics are:
-
-- The novel coronavirus
-- The history of smart phones
-
-These two topics have been chosen because they lend themselves well to interactive features and data visualization. There are plenty more -- many of which feature more somber, timely material -- but I'll let you explore current events and consider those ideas for yourselves, rather than suggesting them for you.
-
 Following is a short list of sources for reliable data sets. These are good starting points, but there are many others, so start exploring.
 
 - [The Milne Library of Open Data Sets](http://libguides.geneseo.edu/data)
@@ -43,7 +36,7 @@ If your topic is not one that lends itself to a chronological sequence, you may 
 
 ## The Layout
 
-This will be a single-page web page, hosted on your server as a branch off of your main portfolio (e.g., www.yourname.com/project4). As such, the style should be consistent with brand you established in your WordPress portfolio (project 3), and it should feature the same logo that you used in that site. The app must be responsive, using the CSS methods we've discussed. Please consider this when planning your interactive graphic; it must look good on both desktop and mobile. This may require using a different layout for your interactive in different viewports. I will pay attention to your responsive code (or lack thereof) when assessing the design.
+The app must be responsive, using the CSS methods we've discussed. Please consider this when planning your interactive graphic; it must look good on both desktop and mobile. This may require using a different layout for your interactive in different viewports. I will pay attention to your responsive code (or lack thereof) when assessing the design.
 
 All of the content in the interactive dashboard should be available to the user without going to a new page. You will have links to your outside sources, of course, but the list of sources should not be put in a separate HTML page; it should appear in a lightbox or other modal window when the user clicks on the “Sources” object.
 
@@ -81,3 +74,5 @@ Here are some examples of work from previous semesters. These are not flawless, 
 - http://dominiquejabbour.com/project4/
 - http://coemacfarlane.com/project-4/
 - http://madelinekraft.com/mejo187_project4/
+- http://nataliemcaleer.com/project-4/
+- http://sbost.com/coronavirus-timeline/
