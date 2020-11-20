@@ -42,12 +42,11 @@ All of the content in the interactive dashboard should be available to the user 
 
 Following is the list of required items in this project app:
 
-1. Logo that links back to your WordPress portfolio site
-2. Story title
-3. Short introduction
-4. Main interactive graphic (e.g. timeline) built with pure JavaScript
-5. Data visualization
-6. A modal window for your Sources
+1. Story title
+2. Short introduction
+3. Main interactive graphic (e.g. timeline) built with pure JavaScript
+4. Data visualization
+5. A modal window for your Sources
 
 ## Grading
 
