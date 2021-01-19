@@ -1,6 +1,6 @@
 ---
 title: Get Google Chrome
-date: 2020-01-08
+date: 2021-01-19
 categories: []
 draft: true
 description: You will find your browser's developer tools to be critical in previewing, testing, and debugging the code for your website. To keep things simple, we will all be using Google Chrome. Please confirm completion of this task on Sakai.
