@@ -1,6 +1,6 @@
 ---
 title: Prepare Computer
-date: 2021-01-19
+date: 2021-01-19T00:00:00
 categories: []
 draft: false
 description: A quick preparation of your computer to make sure you have the best design and development experience in this course.
