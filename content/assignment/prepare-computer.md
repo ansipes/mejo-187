@@ -8,4 +8,30 @@ description: A quick preparation of your computer to make sure you have the best
 
 ## Introduction
 
-Coming soon!
+A quick preparation of your computer to make sure you have the best design and development experience in this course. Here are some things you should check.
+
+## Storage
+
+Your computer has a storage component that holds all of your files. As you generate and download content to your computer, this component fills up. When your computer's storage nears capacity it can struggle to launch programs, read/write files, and perform memory intensive tasks. Here is how you find out if this problem is affecting you.
+
+Check how much storage you have available.
+
+[How to check available storage on macOS](https://support.apple.com/en-us/HT206996#storagepane)
+
+[How to check available storage on Windows](https://support.microsoft.com/en-us/windows/find-out-how-much-storage-your-pc-has-c7cbe6ef-267b-6b8a-32d9-01161623ba5a)
+
+Anything less than 20% available storage can hurt performance. Here is how you can free up space.
+
+Use built-in tools to free up space. There are often more than a few files you no longer need that you can delete.
+
+[Manage storage using macOS](https://support.apple.com/en-us/HT206996#recommendations)
+
+[Manage storage using Windows](https://support.microsoft.com/en-us/windows/free-up-drive-space-in-windows-10-a18fae02-a0fa-8df9-9838-8970f9939de4)
+
+Or, use Microsoft OneDrive (free for UNC Students) to offload files that you would like to keep but do not need on your computer.
+
+[Visit UNC OneDrive](https://onedrive.unc.edu/)
+
+[Free up space with OneDrive on macOS](https://support.microsoft.com/en-us/office/save-disk-space-with-onedrive-files-on-demand-for-mac-529f6d53-e572-4922-a585-e7a318c135f0)
+
+[Free up space with OneDrive on Windows](https://support.microsoft.com/en-us/office/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e)
