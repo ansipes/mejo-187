@@ -1,6 +1,6 @@
 ---
 title: Project I
-date: 2020-09-01
+date: 2021-01-19
 categories: []
 draft: false
 description: Combine your knowledge of layout, color, typography, and branding to create a rich and engaging prototype.
@@ -177,7 +177,7 @@ Here is a previous submission that is considered excellent work.
 
 [Desktop](https://xd.adobe.com/view/fc5b122c-ea8c-41d8-5958-f0b2f5c1688a-8a6a/)
 
-Here is a previous submission that is considered good work. 
+Here is a previous submission that is considered good work.
 
 [Mobile](https://xd.adobe.com/view/7df20180-e235-4781-645e-d862f4942a24-0bc3/)
 
