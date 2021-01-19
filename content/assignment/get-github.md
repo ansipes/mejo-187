@@ -1,5 +1,5 @@
 ---
-title: Get GitHub Account
+title: Get GitHub
 date: 2021-01-19
 categories: []
 draft: false
