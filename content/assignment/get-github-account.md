@@ -2,7 +2,7 @@
 title: Get GitHub Account
 date: 2021-01-19
 categories: []
-draft: true
+draft: false
 description: We will use GitHub to backup and deploy our code, for free!
 ---
 
