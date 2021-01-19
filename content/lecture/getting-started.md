@@ -2,7 +2,7 @@
 title: Getting Started
 date: 2020-08-11
 categories: []
-draft: false
+draft: true
 description: Here is a little information about what this class will be like as well as some directions to help you prepare. We will follow this guide for our first day of class.
 ---
 
