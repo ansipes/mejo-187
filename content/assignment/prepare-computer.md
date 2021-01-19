@@ -35,3 +35,20 @@ Or, use Microsoft OneDrive (free for UNC Students) to offload files that you wou
 [Free up space with OneDrive on macOS](https://support.microsoft.com/en-us/office/save-disk-space-with-onedrive-files-on-demand-for-mac-529f6d53-e572-4922-a585-e7a318c135f0)
 
 [Free up space with OneDrive on Windows](https://support.microsoft.com/en-us/office/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e)
+
+## Memory
+
+When run an application on our computer, any unsaved or temporary data is stored in memory. If a computer is running many applications, it can run out of memory, forcing it to write application data to the storage compontent. Writing and reading this application data from storage is slower than from memory, which can make applications feel like they are lagging.
+
+The solution to running out of memory is simple: do not keep applications open if you are not actively using them. This frees up memory, which can be consumed by applications that are actually in use.
+
+## Window Management
+
+Back in the before times, when we actually met in the classroom, I would often see students struggle to efficiently switch between applications on their computer. The application windows wouldn't be the size of the screen and students would have to drag one out of the way to focus the other.
+
+It does not have to be this unpleasant and this slow. Here are some tips to make navigating between applications faster.
+
+- Maximize your window so you can use every last pixel of your screen
+- Use [Alt Tab] on Windows to switch focus between apps
+- Use [Command Tab] on macOS to switch focus between apps
+- Use Spotlight on macOS to quickly search files, search the internet, or launch an app
