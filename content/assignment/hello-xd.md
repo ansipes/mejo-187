@@ -1,8 +1,8 @@
 ---
 title: Hello XD
-date: 2021-01-19
+date: 2021-01-21
 categories: []
-draft: false
+draft: true
 description: The objective of this exercise is to warm up, get to know each other and explore Adobe XD.
 ---
 
