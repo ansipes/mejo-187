@@ -1,9 +1,9 @@
 ---
-title: Audit Computer
+title: Prepare Computer
 date: 2021-01-19
 categories: []
-draft: true
-description: A quick audit of your computer to make sure you have the best design and development experience in this course.
+draft: false
+description: A quick preparation of your computer to make sure you have the best design and development experience in this course.
 ---
 
 ## Introduction
