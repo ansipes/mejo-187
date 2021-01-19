@@ -2,7 +2,7 @@
 title: Project IV
 date: 2020-11-05
 categories: []
-draft: false
+draft: true
 description: The project will be a single-page web app that features a main interactive graphic (e.g., a timeline) and data visualization.
 ---
 

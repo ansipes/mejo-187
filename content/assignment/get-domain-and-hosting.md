@@ -2,7 +2,7 @@
 title: Get Domain and Hosting
 date: 2020-01-01
 categories: []
-draft: false
+draft: true
 description: In order to publish your websites to the web you will need a domain and hosting. For this course, GoDaddy will be providing both.ss
 ---
 

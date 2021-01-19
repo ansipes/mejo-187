@@ -2,7 +2,7 @@
 title: Architecture
 date: 2020-09-17
 categories: []
-draft: false
+draft: true
 description: Simple websites consist of files and folders.
 ---
 
@@ -33,6 +33,7 @@ This is the domain name.
 ```html
 www.mejo187.com
 ```
+
 This is the path.
 
 ```html
@@ -56,7 +57,7 @@ You should use folders to organize your websites. Here are some things you shoul
 - Styles
 - Scripts
 
-The home page of your website should go in the root folder. Remember, when we say "root" we basically mean something at the top level – much like how the ```<html>``` element is the root element of an HTML document.
+The home page of your website should go in the root folder. Remember, when we say "root" we basically mean something at the top level – much like how the `<html>` element is the root element of an HTML document.
 
 Any inside pages should go into their own folders. You should name those folders according to how you want them to appear in the URL.
 
@@ -104,7 +105,6 @@ https://www.mejo187.com/contact/
 Because the server defaults to index.html for us.
 
 When using this pattern, the name of your page that appears in the URL actually corresponds with the folder containing the HTML file, not the HTML file itself.
-
 
 ### Kebab Case
 

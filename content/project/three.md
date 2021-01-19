@@ -2,7 +2,7 @@
 title: Project III
 date: 2020-10-29
 categories: []
-draft: false
+draft: true
 description: The goal of this assignment is to create a beautiful, effective, user-friendly news website using WordPress.
 ---
 

@@ -2,7 +2,7 @@
 title: Relative URLs
 date: 2020-09-15
 categories: []
-draft: false
+draft: true
 description: How to write URLs without using the domain or protocol.
 ---
 
@@ -97,7 +97,8 @@ The relative URL:
 Is basically saying:
 
 ```html
-https://www.mejo.com/my-inside-page + images/space.jpg remove from the path ^^^^^^^^^^^^^^
+https://www.mejo.com/my-inside-page + images/space.jpg remove from the path
+^^^^^^^^^^^^^^
 ```
 
 Which gives us this:
