@@ -53,6 +53,6 @@ It does not have to be this unpleasant and this slow. Here are some tips to make
 - Use [Command Tab] on macOS to switch focus between apps
 - Use Spotlight on macOS to quickly search files, search the internet, or launch an app
 
-[Switch Apps in macOS](https://www.youtube.com/watch?v=r2xVvFVp3a4)
+[Switch apps using keyboard shortcuts in macOS](https://www.youtube.com/watch?v=r2xVvFVp3a4)
 
-[Switch Apps in Windows](https://www.youtube.com/watch?v=OKAh_HqDUzU&t=2)
+[Switch apps using keyboard shortcuts in Windows](https://www.youtube.com/watch?v=OKAh_HqDUzU&t=2)
