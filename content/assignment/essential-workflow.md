@@ -1,6 +1,6 @@
 ---
 title: Essential Workflow
-date: 2021-01-25
+date: 2021-01-24
 categories: []
 draft: false
 description: The objective of this exercise is to practice the Web Design Process and apply Web Design Principles.
