@@ -18,7 +18,7 @@ title = "Foundations of Interactive Media"
     weight = 1
   [[menu.main]]
     name = "Projects"
-    url = "/projects/"
+    url = "/project/"
     weight = 2
   [[menu.main]]
     name = "Resources"
