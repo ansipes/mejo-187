@@ -2,7 +2,7 @@
 title: Web Design Process
 date: 2021-01-26
 categories: []
-draft: true
+draft: false
 description: While there are many ways to plan, design, and develop a website, we will be learning a tried and true process that makes good use of time and helps avoid common pitfalls.
 ---
 
