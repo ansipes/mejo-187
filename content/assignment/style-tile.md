@@ -1,14 +1,22 @@
 ---
 title: Style Tile
-date: 2020-01-29
+date: 2021-02-02
 categories: []
-draft: true
+draft: false
 description: You have now read about all of the components that make up a style tile. Create one using the archetype assigned to you in class.
 ---
 
 ## Introduction
 
-You have now read about all of the components that make up a style tile. Create one using the archetype assigned to you in class.
+You have now read about all of the components that make up a style tile. Create one that matches a business type below.
+
+- Medical Practice
+- Smartphone Company
+- College
+- Bakery
+- Coffee Shop
+- Industrial Supply
+- Your own custom type!
 
 ## Requirements
 
@@ -17,11 +25,14 @@ Your style tile needs to have these things.
 - Heading
 - Subheading
 - Body
+- Link
 - Buttons
 - Navbar
 - Block Quote
 - Colors
+- Adjectives
+- Imagery
 
-You can go the extra mile by adding in some hover states. This should all be on one art board. Write about five sentences explaining you choices, and make sure to note the archetype you were assigned.
+You can go the extra mile by adding in some hover states. This should all be on one art board (whatever size you like). Publish this as a XD prototype, and leave some annotations on five spots of the art board, explaining your reasoning.
 
 Please submit this on Sakai.
