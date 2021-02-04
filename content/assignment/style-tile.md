@@ -33,6 +33,6 @@ Your style tile needs to have these things.
 - Adjectives
 - Imagery
 
-You can go the extra mile by adding in some hover states. This should all be on one art board (whatever size you like). Publish this as a XD prototype, and leave some annotations on five spots of the art board, explaining your reasoning.
+Make sure to add all of these assets to the asset panel too. You can go the extra mile by adding in some hover states. This should all be on one art board (whatever size you like). Publish this as a XD prototype, and leave some annotations on five spots of the art board, explaining your reasoning.
 
 Please submit this on Sakai.
