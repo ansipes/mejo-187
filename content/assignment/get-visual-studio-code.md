@@ -1,6 +1,6 @@
 ---
 title: Get Visual Studio Code
-date: 2021-01-01
+date: 2021-02-25
 categories: []
 draft: false
 description: You will create HTML, CSS, and JavaScript files in Visual Studio Code. Follow this guide to download, install, and configure Visual Studio Code on your computer. Please confirm completion of this assignment on Sakai.
@@ -8,7 +8,7 @@ description: You will create HTML, CSS, and JavaScript files in Visual Studio Co
 
 ## Introduction
 
-You will create HTML, CSS, and JavaScript files in Visual Studio Code. Follow this guide to download, install, and configure Visual Studio Code on your computer. Please confirm completion of this assignment on Sakai.
+You will create HTML, CSS, and JavaScript files in Visual Studio Code. Follow this guide to download, install, and configure Visual Studio Code on your computer.
 
 ## Go to Visual Studio Code
 
@@ -42,6 +42,10 @@ Formats our code so that it is always easy to read. Use the search box to locate
 
 {{< figure src="/images/get-visual-studio-code/step-five.png" >}}
 
+### HTMLHint
+
+This will help point out problems in our HTML. Code formatter not working? There is most likely an issue with your HTML.
+
 ### Live Server
 
 Allows us to preview our websites locally, but they will behave like they are already hosted somewhere on the internet. It will also automatically reload your page whenever you make a change. Use the search box to locate and install.
@@ -61,9 +65,3 @@ Click on **Settings**.
 Search for **format on save**. Make sure the box is checked.
 
 {{< figure src="/images/get-visual-studio-code/step-nine.png" >}}
-
-## Conclusion
-
-Congratulations, you now have Visual Studio Code installed and configured on your computer! Please make sure to confirm completion of this assignment on Sakai.
-
-[Go to Sakai](https://sakai.unc.edu)
