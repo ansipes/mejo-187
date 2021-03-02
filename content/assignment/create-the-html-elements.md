@@ -1,8 +1,8 @@
 ---
 title: Create the Elements
-date: 2020-09-24
+date: 2021-03-02
 categories: []
-draft: true
+draft: false
 description: Make a new repo using mine as a template. Follow the directions.
 ---
 
