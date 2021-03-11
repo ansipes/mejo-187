@@ -1,8 +1,8 @@
 ---
 title: Relative URLs
-date: 2020-09-15
+date: 2021-03-11
 categories: []
-draft: true
+draft: false
 description: How to write URLs without using the domain or protocol.
 ---
 
