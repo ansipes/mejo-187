@@ -1,16 +1,18 @@
 ---
 title: Project II
-date: 2020-09-29
+date: 2021-03-16
 categories: []
-draft: true
+draft: false
 description: Combine your knowledge of prototyping, HTML, and CSS to create a well-designed, easy-to-navigate, flawlessly coded multi-page website.
 ---
 
 ## Introduction
 
-The goal of this assignment is to challenge you to create a well-designed, easy-to-navigate, flawlessly coded multi-page website. You will pick another one of your topics from your theme.
+The goal of this assignment is to challenge you to create a well-designed, easy-to-navigate, flawlessly coded multi-page website.
 
-It is due on October 20th.
+You can use default content provided (check Sakai) or you can pick your own topic (should have similar amount of content).
+
+If you pick your own topic (which can make the project more fun, but does require extra work), I will award 5 points of extra credit to the project grade. 
 
 ## Deliverables
 
@@ -74,17 +76,27 @@ Here are some things to remember as you start your site, as well as some resourc
 7. Test your site to make sure it looks good on both an iPhone X and a Desktop device that is 1280px wide.
 8. Try something new we haven't covered in class.
 9. Don’t wait till the last minute. You will run into problems – and some of them might break your site completely – so you need to allow time to debug. Successful students have typically followed this rule of thumb: finish building the site a few nights before the deadline, to allow the last night for debugging. An extra bonus is that you'll be able to get early feedback!
-10. Only use your own HTML, CSS, and JavaScript. You are permitted to use snippets I have provided to you in class or in assignments. Do not use any third-party resources (CSS, or JavaScript). This means no jQuery, no Bootstrap, no UI kit, no Bulma, etc. The goal here is to develop a reasonable understanding of the fundamentals of web development – not import a library to magically do it for us.
+10. Only use your own HTML, CSS, and JavaScript. You are permitted to use snippets I have provided to you in class or in assignments. Do not use any third-party resources (CSS, or JavaScript). This means no jQuery, no Bootstrap, no UI kit, no Bulma, etc. The goal here is to develop a reasonable understanding of the fundamentals of web development – not import a library to magically do it for us. (Small snippets are OK, explained more down below)
 
 ## Examples
 
 Here is an example of great student work. The student got the basics down, like using CSS Flexbox and CSS Grid. Then they went the extra mile and built an accordion by following a tutorial on w3schools.
 
-[Example I](http://madelinekraft.com/mejo187_project2/index.html)
+# Example 1
+
+- [Home Mobile](#)
+- [Home Desktop](#)
+- [Inside Mobile](#)
+- [Inside Desktop](#)
 
 Here is an example of good student work. It is an impressive site, but it uses Bootstrap and jQuery, which we will not use.
 
-[Example II](http://www.madisonwalls.org/project2/index.html)
+# Example 2
+
+- [Home Mobile](#)
+- [Home Desktop](#)
+- [Inside Mobile](#)
+- [Inside Desktop](#)
 
 If you see something that you want to emulate, do a quick Google search on how to do it. You might find a tutorial for exactly that! If you can't find anything, message me or schedule office hours, and I will show you how.
 
@@ -113,13 +125,21 @@ Site structure uses in HTML5
 
 Site style uses CSS3
 
-### Functionality (25pts)
+### Functionality (20pts)
 
 All links/menus work; site structure is easy-to-understand; user is never "trapped" and can navigate to any part of the site without having to use the browser's back button.
 
-### Efficiency and Organization (10pts)
+### Efficiency and Organization (15pts)
 
-HTML and CSS files are clean and smooth behind the scenes. That means structure is logical; notes used when necessary; tags and classes used appropriately.
+HTML and CSS files are clean and smooth behind the scenes. That means structure is logical; notes used when necessary; tags and classes used appropriately. There is a reasonable commit history in the GitHub repo. The commits have descriptive messages, i.e. not "Did project 2."
+
+Here are some examples of good commits:
+
+- "Stubbed out project files."
+- "Added global navigation."
+- "Added text content."
+- "Finalized mobile home page."
+- etc
 
 ### Aesthetics (10pts)
 
@@ -139,3 +159,13 @@ You can also call this Innovation and Creativity. It just means doing more than 
 
 - Adding an interactive element, like a carousel or an accordion
 - Adding meta data, like OpenGraph tags, so that the shared link generates a rich preview on platforms like Facebook
+- Researching and implementing a cool CSS effect
+
+## Warnings
+
+Because code is so accessible and so reusable, you must take extra care to not do anything that would be considered plagiarism in this class. Here are some tips.
+
+- Don't use code that you can't explain. Extra effects / features are nice, but I want you to understand how it works.
+- Don't copy code/site wholesale. Looking to use a nifty hover effect? Cool. Looking to use a prebuilt five-page template? Not cool.
+- If you are copy/pasting code into your project, make a code comment listing the URL where you obtained the code and an explanation of how it works.
+- Do not work off the same codebase as a peer.
