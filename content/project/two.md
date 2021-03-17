@@ -20,7 +20,7 @@ Your website will be published using GitHub pages with your own URL. Your reposi
 
 Alternatively, you can name your repository something different, like my-project-topic.
 
-We will push the apps to your servers in class on the due date. You will submit the URL to Sakai once the app is up and running on your server.
+I also want you to turn in a share link for you XD project (wireframes and prototypes).
 
 ## Todos
 
