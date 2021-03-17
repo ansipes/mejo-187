@@ -84,19 +84,19 @@ Here is an example of great student work. The student got the basics down, like 
 
 # Example 1
 
-- [Home Mobile](#)
-- [Home Desktop](#)
-- [Inside Mobile](#)
-- [Inside Desktop](#)
+- [Home Mobile](/images/great-mobile-home.png)
+- [Home Desktop](/images/great-desktop-home.png)
+- [Inside Mobile](/images/great-mobile-inside.png)
+- [Inside Desktop](/images/great-desktop-inside.png)
 
 Here is an example of good student work. It is an impressive site, but it uses Bootstrap and jQuery, which we will not use.
 
 # Example 2
 
-- [Home Mobile](#)
-- [Home Desktop](#)
-- [Inside Mobile](#)
-- [Inside Desktop](#)
+- [Home Mobile](/images/good-mobile-home.png)
+- [Home Desktop](/images/good-desktop-home.png)
+- [Inside Mobile](/images/good-mobile-inside.png)
+- [Inside Desktop](/images/good-desktop-inside.png)
 
 If you see something that you want to emulate, do a quick Google search on how to do it. You might find a tutorial for exactly that! If you can't find anything, message me or schedule office hours, and I will show you how.
 
