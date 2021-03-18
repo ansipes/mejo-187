@@ -88,23 +88,29 @@ Check out these design systems for ideas!
 
 Here are some YouTube Channels the I find helpful and entertaining.
 
-### CharliMarieTV
+### Short Explainers
 
-Charli is a web and graphic designer from New Zealand currently living in London and posting design videos every Saturday about tools, projects, and concepts and vlogs every Tuesday about her life as a designer.
+These are super short videos that explain basic concepts:
 
-I think she is great at explaining design concepts, showing them in practice, and also discussing aspects of the web design industry.
+[Watch CSS Flexbox in 100s](https://www.youtube.com/playlist?list=PLhX116lGsd55CBxbPNNEvzeWsYGGhPclU)
+[Watch CSS Grid in 100s](https://www.youtube.com/watch?v=uuOXPWCh-6o)
 
-[Watch CharliMarieTV](https://www.youtube.com/channel/UCScRSwdX0t31gjk3MYXIuYQ)
+### Kevin Powell
 
-### Layout Land
+I watch this channel all the time. Great explainers / best-practices for CSS.
 
-Learn what's now possible in graphic design on the web — layout, CSS Grid, and more. A series for web designers and developers, created by Jen Simmons.
+[Watch Kevin Powell](https://www.youtube.com/user/KepowOb)
+[Watch KP's Flexbox Basics](https://www.youtube.com/playlist?list=PL4-IK0AVhVjMSb9c06AjRlTpvxL3otpUd)
+[Watch KP's Responsive CSS Tutorials](https://www.youtube.com/playlist?list=PL4-IK0AVhVjODqX-gN6KH68Tt_zrYiTwA)
 
-Jen is absolutely _legendary_. If you are serious about mastering layout in this class, you should watch her videos on CSS Grid and CSS Flexbox.
+### Una Kravets
 
-[Watch Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag)
+Una has done some great series for Google.
 
-### DesignCourse
+[Watch 10 Modern Layouts in 1 line of CSS](https://www.youtube.com/watch?v=qm0IfG1GyZU)
+[Watch Designing in the Browser](https://www.youtube.com/playlist?list=PLhX116lGsd55CBxbPNNEvzeWsYGGhPclU)
+
+### Gary Simon
 
 Gary teaches full stack development! Which means you will see tutorials regarding UI/UX, Frontend Dev, Backend Dev, Graphic Design and more!
 
