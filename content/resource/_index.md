@@ -92,7 +92,7 @@ Here are some YouTube Channels the I find helpful and entertaining.
 
 These are super short videos that explain basic concepts:
 
-[Watch CSS Flexbox in 100s](https://www.youtube.com/playlist?list=PLhX116lGsd55CBxbPNNEvzeWsYGGhPclU)
+[Watch CSS Flexbox in 100s](https://www.youtube.com/watch?v=K74l26pE4YA)
 [Watch CSS Grid in 100s](https://www.youtube.com/watch?v=uuOXPWCh-6o)
 
 ### Kevin Powell
