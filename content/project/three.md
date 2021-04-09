@@ -108,7 +108,7 @@ Here are some examples of good commits:
 - "Finalized mobile home page."
 - etc
 
-### Aesthetics (15pts)
+### Aesthetics (10pts)
 
 Design choices consistent, professional and effective.
 
@@ -123,6 +123,14 @@ Semantic elements are used where appropriate. Proper headings are used to split 
 ### Above and Beyond (20pts)
 
 You can also call this Innovation and Creativity. It just means doing more than what is explicitly outlined to futher develop your development and research skills. It gives you a bit of freedom to make the project your own.
+
+### Explain (10pts)
+
+While you do not have to present your project to the class, you will meet with me one-on-one and walk me through your code. This will be an opportunity to explain some decisions you made and to demonstrate your skills in HTML/CSS/JavaScript. Being able to speak knowledgably about these topics is an important goal for the class!
+
+This means that you should not copy/paste JavaScript or layouts that you don't understand. Whatever you use on your page, be prepared to speak on it.
+
+Here's a tip: if you comment your code extensively and make sure you use a formatter like Prettier, it will make this code review session much easier. With enough comments, it is basically open note; just read me your explanations!
 
 ## Examples
 
