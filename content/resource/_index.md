@@ -10,6 +10,19 @@ layout: single
 
 Welcome to the resources page, where you can find tons of tutorials, assets, and inspiration that can help improve your assignments and projects in this course.
 
+## Games
+
+- [https://flukeout.github.io/](CSS Diner - Practice CSS Selectors)
+- [https://flexboxfroggy.com/](Flexbox Froggy - Practice CSS Flexbox)
+- [https://cssgridgarden.com/](Grid Garden - Practice CSS Grid)
+- [https://cssbattle.dev/](CSSBattle - Compete Using Your CSS Skills)
+- [https://www.frontendmentor.io/](Frontend Mentor - Practice Frontend Layouts)
+
+## Tools
+
+- [https://webaim.org/resources/contrastchecker/](Contrast Checker)
+- [https://flexbox.buildwithreact.com/](Flexbox Layout Generator)
+
 ## Documentation
 
 This should be your number one resource for any questions regarding HTML, CSS, and JavaScript. I personally prefer Mozilla, but both of these websites will answer most of your questions.
