@@ -12,16 +12,16 @@ Welcome to the resources page, where you can find tons of tutorials, assets, and
 
 ## Games
 
-- [https://flukeout.github.io/](CSS Diner - Practice CSS Selectors)
-- [https://flexboxfroggy.com/](Flexbox Froggy - Practice CSS Flexbox)
-- [https://cssgridgarden.com/](Grid Garden - Practice CSS Grid)
-- [https://cssbattle.dev/](CSSBattle - Compete Using Your CSS Skills)
-- [https://www.frontendmentor.io/](Frontend Mentor - Practice Frontend Layouts)
+- [CSS Diner - Practice CSS Selectors](https://flukeout.github.io/)
+- [Flexbox Froggy - Practice CSS Flexbox](https://flexboxfroggy.com/)
+- [Grid Garden - Practice CSS Grid](https://cssgridgarden.com/)
+- [CSSBattle - Compete Using Your CSS Skills](https://cssbattle.dev/)
+- [Frontend Mentor - Practice Frontend Layouts](https://www.frontendmentor.io/)
 
 ## Tools
 
-- [https://webaim.org/resources/contrastchecker/](Contrast Checker)
-- [https://flexbox.buildwithreact.com/](Flexbox Layout Generator)
+- [Contrast Checker](https://webaim.org/resources/contrastchecker/)
+- [Flexbox Layout Generator](https://flexbox.buildwithreact.com/)
 
 ## Documentation
 
